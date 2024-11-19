@@ -1,4 +1,4 @@
-自用,#genre#
+测试,#genre#
 加载试播,http://120.77.28.4:8648/douyu.php?id=11531165
 
 
@@ -580,10 +580,10 @@ AKTV港澳,#genre#
 鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 黃金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 Now星影台,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
 TVB 星河台,http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
@@ -890,6 +890,10 @@ CCTV16,http://1b6467f415.iok.la:9931/tsfile/live/1094_1.m3u8
 综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?世界杯WorldCup
 广东体育,http://61.145.208.64:9003//hls/59/index.m3u8
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
+超级体育,http://112.102.217.173:9003//hls/86/index.m3u8
+精品体育,http://112.102.217.173:9003//hls/89/index.m3u8
+武博世界,http://112.102.217.173:9003//hls/95/index.m3u8
+武博世界,http://39.134.65.87:80/wh7f454c46tw2588729407_421044206/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8?icpid=88888888&RTS=1583531260&from=1&hms_devid=129
 DAZN体育壹,rtmp://f13h.mine.nu/sat/tv731
 DAZN体育贰,rtmp://f13h.mine.nu/sat/tv741
 
@@ -1002,7 +1006,8 @@ NewTV,#genre#
 东北热剧,http://112.102.217.173:9003//hls/78/index.m3u8
 东北热剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 东北热剧,http://39.135.135.68:80/wh7f454c46tw2589103905_-732405604/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8?icpid=88888888&RTS=1583531261&from=1&hms_devid=681
-嗨看暑假,http://112.102.217.173:9003//hls/79/index.m3u8
+欢乐剧场,http://112.102.217.173:9003//hls/79/index.m3u8
+欢乐剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 精品大剧,http://112.102.217.173:9003//hls/80/index.m3u8
 古装剧场,http://112.102.217.173:9003//hls/81/index.m3u8
 军旅剧场,http://112.102.217.173:9003//hls/82/index.m3u8
@@ -1011,15 +1016,12 @@ NewTV,#genre#
 超级电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 超级体育,http://112.102.217.173:9003//hls/86/index.m3u8
 超级综艺,http://112.102.217.173:9003//hls/87/index.m3u8
-精品记录,http://112.102.217.173:9003//hls/88/index.m3u8
-精品体育,http://112.102.217.173:9003//hls/89/index.m3u8
 金牌综艺,http://112.102.217.173:9003//hls/90/index.m3u8
 军事评论,http://112.102.217.173:9003//hls/91/index.m3u8
 军事评论,http://39.134.65.3:80/wh7f454c46tw2588800930_956773057/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8?icpid=88888888&RTS=1583531261&from=1&hms_devid=11
 农业致富,http://112.102.217.173:9003//hls/92/index.m3u8
 农业致富,http://39.134.65.81:80/wh7f454c46tw2587173815_602144874/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8?icpid=88888888&RTS=1583531259&from=1&hms_devid=124
 潮妈辣妹,http://112.102.217.173:9003//hls/94/index.m3u8
-武博世界,http://112.102.217.173:9003//hls/95/index.m3u8
 中国功夫,http://112.102.217.173:9003//hls/96/index.m3u8
 中国功夫,http://39.134.65.85:80/wh7f454c46tw2586908027_-1716107397/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8?icpid=88888888&RTS=1583531259&from=1&hms_devid=130
 精品综艺,http://112.102.217.173:9003//hls/97/index.m3u8
@@ -1027,11 +1029,13 @@ NewTV,#genre#
 动作电影,http://39.134.65.166/PLTV/88888888/224/3221225555/1.m3u8
 动作电影,http://39.134.65.164/PLTV/88888888/224/3221225555/1.m3u8
 精品,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010078/1.m3u8
-超级,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-超级,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010063/1.m3u8
+超级电视剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+超级电视剧,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010063/1.m3u8
 超级电视剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-欢乐剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-搏击,http://39.134.65.87:80/wh7f454c46tw2588729407_421044206/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8?icpid=88888888&RTS=1583531260&from=1&hms_devid=129
+精品记录,http://112.102.217.173:9003//hls/88/index.m3u8
+精品体育,http://112.102.217.173:9003//hls/89/index.m3u8
+武博世界,http://112.102.217.173:9003//hls/95/index.m3u8
+武博世界,http://39.134.65.87:80/wh7f454c46tw2588729407_421044206/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8?icpid=88888888&RTS=1583531260&from=1&hms_devid=129
 
 视觉效果,#genre#
 3D-1视觉效果,https://vd3.bdstatic.com/mda-mfnc43q5ngnzua6p/sc/cae_h264/1624437508830556235/mda-mfnc43q5ngnzua6p.mp4
