@@ -1,6 +1,6 @@
 测试,#genre#
-加载试播,http://120.77.28.4:8648/douyu.php?id=11531165
 加载试播,https://vd3.bdstatic.com/mda-pekbzwejzv6m3h6d/hd/cae_h264/1684832121402940833/mda-pekbzwejzv6m3h6d.mp4
+加载试播,http://120.77.28.4:8648/douyu.php?id=11531165
 熊猫频道2,http://kxrj.site:8081/8647/mg.php?id=xm2
 熊猫频道3,http://kxrj.site:8081/8647/mg.php?id=xm3
 熊猫频道5,http://kxrj.site:8081/8647/mg.php?id=xm5
