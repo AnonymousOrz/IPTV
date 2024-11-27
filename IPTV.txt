@@ -587,7 +587,6 @@ CGTn-02,http://112.102.217.173:9003//hls/33/index.m3u8
 凤凰资讯,http://kxrj.site:8081/8647/fh.php?id=fhzx
 凤凰资讯,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
 凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,http://kxrj.site:8081/8647/fh.php?id=fhhk
