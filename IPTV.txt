@@ -956,7 +956,6 @@ CCtv6影院 ,https://epg.pw/stream/753fe6b20478c17a39f0c17d3c8d98a74cd5890a6e40f
 
 少儿频道,#genre#
 广东少儿,https://vod.gdtv.cn/m3u8/202310/169548262450.m3u8
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 黑龙江少儿,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3
@@ -1009,7 +1008,6 @@ CCtv6影院 ,https://epg.pw/stream/753fe6b20478c17a39f0c17d3c8d98a74cd5890a6e40f
 少儿动漫,http://39.134.136.161:6610/000000001000/2000000004000000003/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000003
 少儿动漫,http://39.134.136.161:6610/000000001000/8145334647720731271/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=8145334647720731271
 山东少儿,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000340/index.m3u8?IASHttpSessionId=
-山东少儿 HEVC,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000375/index.m3u8?IASHttpSessionId=
 海南少儿,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/1.m3u8
 龙华卡通,https://litv.zapi.us.kg/?id=litv-longturn01
 靖洋卡通台,https://litv.zapi.us.kg/?id=4gtv-4gtv057
