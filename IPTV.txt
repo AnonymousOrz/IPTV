@@ -172,8 +172,8 @@ CCTV14,http://124.128.73.58:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&a
 CCTV14,http://221.205.131.25:9999/tsfile/live/0014_1.m3u8
 CCTV14,http://110.177.146.152:888/udp/239.1.1.21:8021
 CCTV14,http://116.117.104.39:8096/tsfile/live/0014_1.m3u8
+CCTV14,http://123.7.110.43:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://39.164.160.249:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV15,http://123.7.110.43:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,https://api.livednow.org/migu/673168223?sign=gAAAAABnJcJqidnXewNhy-gri2ybb9iscI03y5nc62Syy1VqIhpbG4NsKVFHcgll52_xUKgwrWb5UR4xUTuxZnXcZ0qybFuneRF7vganvFXXcsbCxEG1p3RlEZw2hsCJ2G64570EsLkHymrjb0T7NBsJQyYJplJRLJFEd2gRpP40XLLJYTwJTmIC9b2eeLAZy4YEIn8-g7uBCctAPZtXqq8lS4vOcoHLSQ%3D%3D
 CCTV15,http://dd.ddzb.fun:80/php/migu.php?id=cctv15
 CCTV15,http://kxrj.site:8081/8647/mg.php?id=cctv15
