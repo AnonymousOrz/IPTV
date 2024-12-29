@@ -985,10 +985,9 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 黑莓电影 ,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/1.m3u8
 龍華經典台 ,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 龍華電影台 ,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-靖天电影台 ,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+龙华电影 ,http://37.27.111.214:8080/live/19/hls.m3u8靖天电影台 ,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 美亚电影 ,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 美亚电影 ,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-龙华电影 ,http://37.27.111.214:8080/live/19/hls.m3u8
 Hot亚洲影院 ,http://39.134.136.161:6610/000000001000/5841816227539527643/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=5841816227539527643
 Hot亚洲影院 ,http://39.134.136.161:6610/000000001000/2000000004000000006/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000006
 Hot欧美影院 ,http://39.134.136.161:6610/000000001000/7185203501769528108/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=7185203501769528108
@@ -1008,7 +1007,6 @@ CHC动作电影,http://42.227.88.176:9003//hls/66/index.m3u8
 CHC动作电影,https://ali.hlspull.yximgs.com/live/diyp_chcdongzuo.flv
 CHC影迷电影,http://42.227.88.176:9003//hls/67/index.m3u8
 CHC影迷电影,https://ali.hlspull.yximgs.com/live/diyp_chcyingmi.flv
-金鹰卡通,http://42.227.88.176:9003//hls/58/index.m3u8
 
 少儿频道,#genre#
 广东少儿,https://vod.gdtv.cn/m3u8/202310/169548262450.m3u8
@@ -1438,7 +1436,6 @@ SiTV游戏风云,http://m.951688.xyz:35455/itv/5000000011000031114.m3u8?cdn=best
 粤语版电影一,http://120.77.28.4:8648/douyu.php?id=5033502
 粤语版电影二,http://120.77.28.4:8648/douyu.php?id=6566671
 粤语版电影三,http://120.77.28.4:8648/douyu.php?id=1226741
-星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 星光综合,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 经典港剧,http://120.77.28.4:8648/douyu.php?id=9548850
@@ -1635,16 +1632,6 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 吐槽大会二季,http://rihou.cc:555/yyd.php?id=1354936145
 吐槽大会五季,http://rihou.cc:555/yyd.php?id=1354889009
 粤语星爷电影,http://rihou.cc:555/hyd.php?id=11336587
-电台轮直播贰,http://189.1.239.118:35455/bilibili/31224575
-电台轮直播柒,http://189.1.239.118:35455/douyin/659978490631
-电台轮播壹贰,http://189.1.239.118:35455/douyin/52964831164
-电台轮播壹肆,http://189.1.239.118:35455/bilibili/30281885
-电台轮播壹陆,http://189.1.239.118:35455/bilibili/1773507853
-电台轮播壹玖,http://189.1.239.118:35455/bilibili/27660328
-电台轮播贰拾,http://189.1.239.118:35455/bilibili/22647198
-电台轮播贰壹,http://189.1.239.118:35455/bilibili/21278391
-电台轮播贰贰,http://189.1.239.118:35455/bilibili/25208224
-电台轮播贰叁,http://189.1.239.118:35455/bilibili/266845
 
 还珠格格,#genre#
 还珠格格壹01,https://yzzy.play-cdn8.com/20220710/3671_314a6b1b/index.m3u8
