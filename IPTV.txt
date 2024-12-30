@@ -1,6 +1,7 @@
 测试,#genre#
 加载试播,https://vd3.bdstatic.com/mda-pekbzwejzv6m3h6d/hd/cae_h264/1684832121402940833/mda-pekbzwejzv6m3h6d.mp4
 加载试播,http://120.77.28.4:8648/douyu.php?id=11531165
+加载试播,https://www.goodiptv.club/douyu/11531165
 加载试播,http://rihou.cc:555/mp4?id=lndjll.mp4
 加载试播,http://61.221.215.25:8800/hls/49/index.m3u8
 斗鱼KTV,http://zzy789.xyz/douyu1.php?id=3186217
