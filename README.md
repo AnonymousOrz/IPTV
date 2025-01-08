@@ -3,6 +3,5 @@
 
 链接:[https://raw.kkgithub.com/AnonymousOrz/IPTV/main/IPTV.txt](https://raw.kkgithub.com/AnonymousOrz/IPTV/main/IPTV.txt)
 
-备用1:https://ghp.ci/https://raw.githubusercontent.com/AnonymousOrz/IPTV/main/IPTV.txt
+备用1:https://ghproxy.1888866.xyz/https://raw.githubusercontent.com/AnonymousOrz/IPTV/main/IPTV.txt
 
-备用2:https://ghproxy.net/https://raw.githubusercontent.com/AnonymousOrz/IPTV/main/IPTV.txt
