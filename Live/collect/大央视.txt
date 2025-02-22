@@ -1,76 +1,476 @@
+#EXTM3U
+EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="China/🇨🇳",CCTV-1
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="China/🇨🇳",CCTV-1 港版
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="China/🇨🇳",CCTV-2
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226540/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="China/🇨🇳",CCTV-3
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="China/🇨🇳",CCTV-4
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226428/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="China/🇨🇳",CCTV-5+
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="China/🇨🇳",CCTV-7
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="China/🇨🇳",CCTV-8
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226008/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="China/🇨🇳",CCTV-9
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="China/🇨🇳",CCTV-10
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="China/🇨🇳",CCTV-11
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225597/index.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226565/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="China/🇨🇳",CCTV-12
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225731/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="China/🇨🇳",CCTV-13
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226537/index.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="China/🇨🇳",CCTV-14
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226591/index.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="China/🇨🇳",CCTV-15
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226476/index.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="China/🇨🇳",CCTV-16
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="China/🇨🇳",CCTV-17
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="China/🇨🇳",北京卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="China/🇨🇳",江苏卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="China/🇨🇳",浙江卫视
+http://39.134.65.175/PLTV/88888888/224/3221225514/1.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="China/🇨🇳",东方卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="China/🇨🇳",广东卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="China/🇨🇳",黑龙江卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="China/🇨🇳",深圳卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="China/🇨🇳",天津卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="China/🇨🇳",山东卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="China/🇨🇳",湖北卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.cn/tv/贵州卫视.png" group-title="China/🇨🇳",贵州卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png" group-title="China/🇨🇳",江西卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="China/🇨🇳",重庆卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="China/🇨🇳",辽宁卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="China/🇨🇳",东南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="China/🇨🇳",四川卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.cn/tv/广西卫视.png" group-title="China/🇨🇳",广西卫视
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226549/index.m3u8
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png" group-title="China/🇨🇳",河北卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png" group-title="China/🇨🇳",黑龙江卫视
+http://111.29.9.33:6610/000000001000/1000000001000001925/index.m3u8?channel-id=bestzb&Contentid=1000000001000001925&livemode=1&stbId=3
+#EXTINF:-1 group-title="China/🇨🇳",黑龍江影視
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
+#EXTINF:-1 group-title="China/🇨🇳",黑龍江都市
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
+#EXTINF:-1 group-title="China/🇨🇳",黑龍江文体
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
+#EXTINF:-1 group-title="China/🇨🇳",东方卫视
+http://111.29.9.33:6610/000000001000/1000000001000005866/index.m3u8?channel-id=bestzb&Contentid=1000000001000005866&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png" group-title="China/🇨🇳",湖南卫视
+http://111.29.9.33:6610/000000001000/1000000001000009115/index.m3u8?channel-id=bestzb&Contentid=1000000001000009115&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云南卫视.png" group-title="China/🇨🇳",云南卫视
+http://111.29.9.33:6610/000000001000/1000000002000024694/index.m3u8?channel-id=bestzb&Contentid=1000000002000024694&livemode=1&stbId=3
+#EXTINF:-1 group-title="China/🇨🇳",宁夏卫视
+http://111.29.9.33:6610/000000001000/1000000002000031451/index.m3u8?channel-id=bestzb&Contentid=1000000002000031451&livemode=1&stbId=3
 
-CCTV-1,ttp://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
-CCTV-1,ttps://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
-CCTV-2,ttp://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226540/index.m3u8
-CCTV-3,ttp://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8
-CCTV-4,ttp://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226428/index.m3u8
-CCTV-5+,ttp://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8
-CCTV-7,ttp://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225733/index.m3u8
-CCTV-8,ttp://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226008/index.m3u8
-CCTV-9,ttp://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225734/index.m3u8
-CCTV-10,ttp://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-CCTV-11,ttp://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225597/index.m3u8
-CCTV-11,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226565/index.m3u8
-CCTV-12,ttp://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225731/index.m3u8
-CCTV-13,ttp://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226537/index.m3u8
-CCTV-14,ttp://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226591/index.m3u8
-CCTV-15,ttp://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226476/index.m3u8
-CCTV-16,ttp://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-CCTV-17,ttp://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-北京卫视,ttp://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
-北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
-江苏卫视,ttp://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
-江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
-浙江卫视,ttp://39.134.65.175/PLTV/88888888/224/3221225514/1.m3u8
-东方卫视,ttp://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
-广东卫视,ttp://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-黑龙江卫视,ttp://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
-深圳卫视,ttp://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
-深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
-天津卫视,ttp://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
-天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
-山东卫视,ttp://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
-湖北卫视,ttp://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
-湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
-贵州卫视,ttp://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
-江西卫视,ttp://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
-重庆卫视,ttp://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
-辽宁卫视,ttp://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
-东南卫视,ttp://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
-四川卫视,ttp://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
-广西卫视,ttp://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226549/index.m3u8
-河北卫视,ttp://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
-黑龙江卫视,ttp://111.29.9.33:6610/000000001000/1000000001000001925/index.m3u8?channel-id=bestzb&Contentid=1000000001000001925&livemode=1&stbId=3
-东方卫视,ttp://111.29.9.33:6610/000000001000/1000000001000005866/index.m3u8?channel-id=bestzb&Contentid=1000000001000005866&livemode=1&stbId=3
-湖南卫视,ttp://111.29.9.33:6610/000000001000/1000000001000009115/index.m3u8?channel-id=bestzb&Contentid=1000000001000009115&livemode=1&stbId=3
-云南卫视,ttp://111.29.9.33:6610/000000001000/1000000002000024694/index.m3u8?channel-id=bestzb&Contentid=1000000002000024694&livemode=1&stbId=3
-宁夏卫视,ttp://111.29.9.33:6610/000000001000/1000000002000031451/index.m3u8?channel-id=bestzb&Contentid=1000000002000031451&livemode=1&stbId=3
-广西卫视,ttp://111.29.9.33:6610/000000001000/1000000002000019837/index.m3u8?channel-id=bestzb&Contentid=1000000002000019837&livemode=1&stbId=3
-河南卫视,ttp://111.29.9.33:6610/000000001000/5000000011000031119/index.m3u8?channel-id=bestzb&Contentid=5000000011000031119&livemode=1&stbId=3
-甘肃卫视,ttp://111.29.9.33:6610/000000001000/1000000002000017827/index.m3u8?channel-id=bestzb&Contentid=1000000002000017827&livemode=1&stbId=3
-吉林卫视,ttp://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-海南卫视,ttp://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
-US TBS,ttp://cord-cutter.net:8080/25464931/30585186/20867
-US TNT (West),ttp://cord-cutter.net:8080/25464931/30585186/46688
-US TNT East,ttp://cord-cutter.net:8080/25464931/30585186/10455
-US TEN 2,ttp://cord-cutter.net:8080/25464931/30585186/47442
-龍華戲劇台,ttp://122.117.71.103:8533/http/61.222.53.250:8068/hls/13/80/cstv13.m3u8
-龍華電影台,ttp://122.117.71.103:8555/http/61.222.53.250:8068/hls/10/80/cstv10.m3u8
-纬来电影台,ttp://122.117.71.103:8554/http/61.222.53.250:8081/hls/69/811/ch35.m3u8
-纬来电影台,http://125.229.9.67:8554/http/220.130.87.218:8081/hls/69/811/ch035.m3u8
-翡翠台4K,ttps://video.mytvsuper.alixyz/live/6b6010bfabd40dccd46e3102458c28e47b154bd513b8c872237ae6666b3911c0.php?token=727304758710467
-Now星影台,ttps://video.mytvsuper.xyz/live/9ec728bb00bbd1499c11653e50306f251510f8270fe35a95350f15a3312b8ffd.m3u8?token=727304758710467,OY TV,ttp://php.jdshipin.com/PLTV/iptv.php?id=hoytv
-Astro千禧经典台,ttp://php.jdshipin.com:8880/PLTV/iptv.php?id=tvbc
-TVB Plus,ttp://php.jdshipin.com/PLTV/iptv.php?id=j2
-东森戲劇,ttp://122.117.71.103:8529/http/61.222.53.250:8081/hls/64/806/ch13.m3u8
-緯來戲劇,ttp://122.117.71.103:8532/http/61.222.53.250:8081/hls/69/811/ch33.m3u8
-龍祥時代,ttp://50.7.234.10:8278/lungxiangtime_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=525f1c9e0b438304ca9f31eb061c4710
-东森电影台,ttp://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MECE7715898977158989&ct=19234&tsum=a663a2e65f2d50fefd2d6b096f9e3f02
-美亚电影台,ttp://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=5d5f2284a5f896d6519e0aa61fe765c9
-民視,ttp://50.7.234.10:8278/ftvhd_taiwan/playlist.m3u8?ct=18335&tid=m15b424641a89&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
-台視,ttp://50.7.234.10:8278/ttv_taiwan/playlist.m3u8?ct=17874&tid=mdea1ba75c9e516139101&tsum=95f1742d36f959fe6e241587a4f8e970
-華視,ttp://50.7.234.10:8278/ctshd_twn/playlist.m3u8?ct=19226&tid=MAFA1309481213094812&tsum=429f7c40691cdcc6c1fb108dbd11e002
-三立台灣,ttp://50.7.234.10:8278/sanlitaiwan/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=94eb46a81567fa794ff9d30cdbc87237
-三立台灣,ttp://50.7.234.10:8278/sanlitaiwan/playlist.m3u8?ct=17874&tid=m92ccadc4dc3718157816&tsum=3570a8198ca0fb7ebb803807e38b33fb
-三立台灣,ttp://50.7.234.10:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
-三立戲劇,http://50.7.234.10:8278/sanlixiju_twn/playlist.m3u8?tid=MCFC5174201151742011&ct=19193&tsum=27477ddeec029345da276c2c903f09c2
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南卫视.png" group-title="China/🇨🇳",河南卫视
+http://111.29.9.33:6610/000000001000/5000000011000031119/index.m3u8?channel-id=bestzb&Contentid=5000000011000031119&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/甘肃卫视.png" group-title="China/🇨🇳",甘肃卫视
+http://111.29.9.33:6610/000000001000/1000000002000017827/index.m3u8?channel-id=bestzb&Contentid=1000000002000017827&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.cn/tv/吉林卫视.png" group-title="China/🇨🇳",吉林卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.cn/tv/海南卫视.png" group-title="China/🇨🇳",海南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/青海卫视.png" group-title="China/🇨🇳",青海卫视
+http://yymall.top:53432/jump?url=http%3A%2F%2F205.185.120.154%3A35455%2Fitv%2F1000000002000013359.m3u8%3Fcdn%3Dystenlive$itv
+http://yymall.top:50001/TVOD/7766420291569067385/hnbblive/index.m3u8
+
+#EXTM3U url-tvg="[XML_EPG]"
+#EXTINF:-1 tvg-id="WABC.us" tvg-name="ABC_EAST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="0" channel-number="0",ABC East
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+
+#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC_NETWORK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" group-title="USA/🇺🇸" streamId="1" channel-number="1",ACC Network
+http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="2" channel-number="2",AMC
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="AmericanHeroesChannel.us" tvg-name="American Heroes Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="3" channel-number="3",American Heroes Channel
+http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
+
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal_Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="4" channel-number="4",Animal Planet
+http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC_AMERICA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="5" channel-number="5",BBC America
+http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCNews.us" tvg-name="BBC_WORLD_NEWS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true" group-title="USA/🇺🇸" streamId="6" channel-number="6",BBC World News
+http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="BEIN_SPORTS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" group-title="USA/🇺🇸" streamId="7" channel-number="7",beIN Sports
+http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
+
+#EXTINF:-1 tvg-id="BET.us" tvg-name="BET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="8" channel-number="8",BET
+http://fl2.moveonjoy.com/BET_EAST/index.m3u8
+
+#EXTINF:-1 tvg-id="BETGospel.us" tvg-name="BET_GOSPEL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-gospel-us.png?raw=true" group-title="USA/🇺🇸" streamId="9" channel-number="9",BET Gospel
+http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8
+#EXTINF:-1 tvg-id="BETHer.us" tvg-name="BET_HER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="10" channel-number="10",BET Her East
+http://fl2.moveonjoy.com/BET_HER/index.m3u8
+
+#EXTINF:-1 tvg-id="BETJams.us" tvg-name="BET Jams" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-jams-us.png?raw=true" group-title="USA/🇺🇸" streamId="11" channel-number="11",BET Jams
+http://fl3.moveonjoy.com/BET_Jams/index.m3u8
+
+#EXTINF:-1 tvg-id="BETSOUL.us" tvg-name="BET_SOUL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-soul-us.png?raw=true" group-title="USA/🇺🇸" streamId="12" channel-number="12",BET Soul
+http://fl2.moveonjoy.com/BET_SOUL/index.m3u8
+
+#EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-name="Big Ten Network HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" group-title="USA/🇺🇸" streamId="13" channel-number="13",Big Ten Network
+http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="BLOOMBERG" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="USA/🇺🇸" streamId="14" channel-number="14",Bloomberg
+http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8
+
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="15" channel-number="15",Boomerang
+http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
+
+#EXTINF:-1 tvg-id="BounceTV.us" tvg-name="Bounce" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bounce-us.png?raw=true" group-title="USA/🇺🇸" streamId="16" channel-number="16",Bounce
+http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="BRAVO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="17" channel-number="17",Bravo
+http://fl2.moveonjoy.com/BRAVO/index.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="CARTOON_NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="18" channel-number="18",Cartoon Network
+http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="WCBS.us" tvg-name="CBSEAST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="19" channel-number="19",CBS (WBZ)
+http://fl2.moveonjoy.com/CBSEAST/index.m3u8
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="CBS_SPORTS_NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="20" channel-number="20",CBS Sports Network
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="CineMAX.us" tvg-name="CINEMAX_EAST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="USA/🇺🇸" streamId="21" channel-number="21",Cinemax
+http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
+
+#EXTINF:-1 tvg-id="CMT.us" tvg-name="CMT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="22" channel-number="22",CMT East
+http://fl3.moveonjoy.com/CMT/index.m3u8
+
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="23" channel-number="23",CNBC
+http://fl3.moveonjoy.com/CNBC/index.m3u8
+
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="24" channel-number="24",CNN
+http://fl2.moveonjoy.com/CNN/index.m3u8
+
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="COMEDY_CENTRAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="25" channel-number="25",Comedy Central
+http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+
+#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="COOKING" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="26" channel-number="26",Cooking Channel
+http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="CSPAN.us" tvg-name="C-SPAN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="27" channel-number="27",C-SPAN
+http://fl2.moveonjoy.com/C-SPAN/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="28" channel-number="28",Discovery Channel
+http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryFamilyChannel.us" tvg-name="DISCOVERY_FAMILY_CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="29" channel-number="29",Discovery Family
+http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryLifeChannel.us" tvg-name="DISCOVERY_LIFE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="30" channel-number="30",Discovery Life
+http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="DISNEY_CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="31" channel-number="31",Disney Channel
+http://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="DISNEY_JR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="32" channel-number="32",DisneyJr
+http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="DISNEY_XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="33" channel-number="33",DisneyXD
+http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
+
+#EXTINF:-1 tvg-id="MGMplus.us" tvg-name="EPIX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/epix-us.png?raw=true" group-title="USA/🇺🇸" streamId="34" channel-number="34",EPIX
+http://fl2.moveonjoy.com/EPIX/index.m3u8
+
+#EXTINF:-1 tvg-id="MGMplusHits.us" tvg-name="EPIX_2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/epix-2-us.png?raw=true" group-title="USA/🇺🇸" streamId="35" channel-number="35",EPIX 2
+http://fl2.moveonjoy.com/EPIX_2/index.m3u8
+
+#EXTINF:-1 tvg-id="MGMplusDriveIn.us" tvg-name="EPIX_DRIVE_IN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/epix-drive-in-us.png?raw=true" group-title="USA/🇺🇸" streamId="36" channel-number="36",EPIX Drive-In
+http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+
+#EXTINF:-1 tvg-id="MGMplusMarquee.us" tvg-name="EPIX_HITS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/epix-hits-us.png?raw=true" group-title="USA/🇺🇸" streamId="37" channel-number="37",EPIX Hits
+http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="38" channel-number="38",ESPN
+http://fl1.moveonjoy.com/ESPN/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN2(src01).us" tvg-name="ESPN_2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="39" channel-number="39",ESPN 2
+http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPNEWS.us" tvg-name="ESPN_NEWS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="40" channel-number="40",ESPNews
+http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN_U" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="41" channel-number="41",ESPN U
+http://fl2.moveonjoy.com/ESPN_U/index.m3u8
+
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="FOOD_NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="42" channel-number="42",Food Network
+http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="WNYW.us" tvg-name="FOX_EAST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="43" channel-number="43",FOX (WFXT)
+http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="FOX News Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="44" channel-number="44",FOX News Channel
+http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSoccerPlus.us" tvg-name="FOX_SOCCER_PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png" group-title="USA/🇺🇸" streamId="45" channel-number="45",FOX Soccer Plus
+http://fl2.moveonjoy.com/FOX_SOCCER_PLUS/index.m3u8
+#EXTINF:-1 tvg-id="FS1.us" tvg-name="FS1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" group-title="USA/🇺🇸" streamId="46" channel-number="46",FS1
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+
+#EXTINF:-1 tvg-id="FS2(Spanish).us" tvg-name="FS2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" group-title="USA/🇺🇸" streamId="47" channel-number="47",FS2
+http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
+
+#EXTINF:-1 tvg-id="Freeform.us" tvg-name="Freeform East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="48" channel-number="48",Freeform East
+http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
+
+#EXTINF:-1 tvg-id="Fuse.us" tvg-name="Fuse" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="49" channel-number="49",Fuse
+http://fl2.moveonjoy.com/FUSE/index.m3u8
+
+#EXTINF:-1 tvg-id="FX.us" tvg-name="FX East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="50" channel-number="50",FX East
+http://fl2.moveonjoy.com/FX/index.m3u8
+
+#EXTINF:-1 tvg-id="FXM.us" tvg-name="FXM" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true" group-title="USA/🇺🇸" streamId="51" channel-number="51",FXM
+http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
+
+#EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="52" channel-number="52",FXX East
+http://fl2.moveonjoy.com/FXX/index.m3u8
+
+#EXTINF:-1 tvg-id="FYIChannel.us" tvg-name="FYI FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fyi-us.png?raw=true" group-title="USA/🇺🇸" streamId="53" channel-number="53",FYI East
+http://fl2.moveonjoy.com/FYI/index.m3u8
+#EXTINF:-1 tvg-id="get.us" tvg-name="getTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/get-tv-us.png?raw=true" group-title="USA/🇺🇸" streamId="54" channel-number="54",getTV
+http://fl2.moveonjoy.com/GET_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11221_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="55" channel-number="55",Hallmark Channel East
+http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="HallmarkFamily.us" tvg-name="Hallmark Family" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-family-us.png?raw=true" group-title="USA/🇺🇸" streamId="56" channel-number="56",Hallmark Family
+http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="57" channel-number="57",HBO East
+http://fl2.moveonjoy.com/HBO/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO2.us" tvg-name="HBO2 East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="58" channel-number="58",HBO2 East
+http://fl2.moveonjoy.com/HBO_2/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="HBO Comedy East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="59" channel-number="59",HBO Comedy East
+http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="HBO Family East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="60" channel-number="60",HBO Family East
+http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="HBOZone.us" tvg-name="HBO Zone East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="61" channel-number="61",HBO Zone East
+http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
+
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="62" channel-number="62",HGTV East
+http://fl2.moveonjoy.com/HGTV/index.m3u8
+
+#EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="63" channel-number="63",HLN
+http://fl2.moveonjoy.com/HLN/index.m3u8
+
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="ID (Investigation Discovery) East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="64" channel-number="64",ID (Investigation Discovery) East
+http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+
+#EXTINF:-1 tvg-id="IONTelevision.us" tvg-name="ION" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-television-us.png?raw=true" group-title="USA/🇺🇸" streamId="65" channel-number="65",ION
+http://fl2.moveonjoy.com/ION_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Laff.us" tvg-name="Laff TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/laff-us.png?raw=true" group-title="USA/🇺🇸" streamId="66" channel-number="66",Laff TV
+http://72.46.118.193/Laff/index.m3u8
+
+#EXTINF:-1 tvg-id="Lifetime.us" tvg-name="Lifetime" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="67" channel-number="67",Lifetime East
+http://fl2.moveonjoy.com/LIFETIME/index.m3u8
+
+#EXTINF:-1 tvg-id="LMN.us" tvg-name="Lifetime Movies Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="68" channel-number="68",Lifetime Movies Network
+http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="Logo.us" tvg-name="Logo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46762_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="69" channel-number="69",Logo East
+http://fl3.moveonjoy.com/Logo/index.m3u8
+
+#EXTINF:-1 tvg-id="MeTVNetwork.us" tvg-name="MeTV East" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/me-tv-us.png?raw=true" group-title="USA/🇺🇸" streamId="70" channel-number="70",MeTV
+http://fl2.moveonjoy.com/ME_TV/index.m3u8
+#EXTINF:-1 tvg-id="TVOne.us" tvg-name="TVOne" tvg-logo="https://seeklogo.com/images/T/tvone-logo-7110EDDE30-seeklogo.com.png" group-title="USA/🇺🇸" streamId="120" channel-number="120",TVOne
+http://fl2.moveonjoy.com/TV_ONE/index.m3u8
+
+#EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1 East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="121" channel-number="121",VH1 East
+http://fl2.moveonjoy.com/VH1/index.m3u8
+
+#EXTINF:-1 tvg-id="Vice.us" tvg-name="Vice" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="122" channel-number="122",Vice
+http://fl2.moveonjoy.com/VICELAND/index.m3u8
+
+#EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-name="Weather Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="123" channel-number="123",Weather Channel
+http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="WeTV.us" tvg-name="WeTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/we-tv-us.png?raw=true" group-title="USA/🇺🇸" streamId="124" channel-number="124",WeTV
+http://fl1.moveonjoy.com/WE_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="YESNetwork.us" tvg-name="YES Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" group-title="USA/🇺🇸" streamId="125" channel-number="125",YES Network
+http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="TurnerClassicMovies.us" tvg-name="TCM East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="114" channel-number="114",TCM (Turner Classic Movies) East
+http://fl1.moveonjoy.com/TCM/index.m3u8
+
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="115" channel-number="115",Tennis Channel
+http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="TLC.us" tvg-name="TLC East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="116" channel-number="116",TLC (The Learning Channel) East
+http://fl2.moveonjoy.com/TLC/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="117" channel-number="117",TNT East
+http://fl2.moveonjoy.com/TNT/index.m3u8
+
+#EXTINF:-1 tvg-id="truTV.us" tvg-name="truTV East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="118" channel-number="118",truTV East
+http://fl2.moveonjoy.com/TRU_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="TVLand.us" tvg-name="TVLand" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tv-land-us.png?raw=true" group-title="USA/🇺🇸" streamId="119" channel-number="119",TVLand
+http://fl2.moveonjoy.com/TV_Land/index.m3u8
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="71" channel-number="71",MLB Network
+http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="MOTORTREND.us" tvg-name="MotorTrend" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31046_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="72" channel-number="72",MotorTrend
+http://fl2.moveonjoy.com/MOTOR_TREND/index.m3u8
+
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="73" channel-number="73",MSNBC
+http://fl2.moveonjoy.com/MSNBC/index.m3u8
+
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="74" channel-number="74",MTV East
+http://fl2.moveonjoy.com/MTV/index.m3u8
+
+#EXTINF:-1 tvg-id="MTV2.us" tvg-name="MTV2 East" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-2-us.png?raw=true" group-title="USA/🇺🇸" streamId="75" channel-number="75",MTV2 East
+http://fl2.moveonjoy.com/MTV_2/index.m3u8
+
+#EXTINF:-1 tvg-id="MTVClassic.us" tvg-name="MTV Classic" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-classic-us.png?raw=true" group-title="USA/🇺🇸" streamId="76" channel-number="76",MTV Classic
+http://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
+
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="MTV Live" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-live-us.png?raw=true" group-title="USA/🇺🇸" streamId="77" channel-number="77",MTV Live
+http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+
+#EXTINF:-1 tvg-id="mtvU.us" tvg-name="mtvU" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-u-us.png?raw=true" group-title="USA/🇺🇸" streamId="78" channel-number="78",mtvU
+http://fl2.moveonjoy.com/MTV_U/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="79" channel-number="79",National Geographic East
+http://fl2.moveonjoy.com/National_Geographic/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="National Geographic Wild" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="80" channel-number="80",National Geographic Wild
+http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+
+#EXTINF:-1 tvg-id="NBAtv.us" tvg-name="NBA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="USA/🇺🇸" streamId="81" channel-number="81",NBA TV
+http://fl2.moveonjoy.com/NBA_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="WNBC.us" tvg-name="NBC East (Chicago)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" group-title="USA/🇺🇸" streamId="82" channel-number="82",NBC East (Chicago)
+http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
+
+#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="NBC Golf" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14899_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="83" channel-number="83",NBC Golf
+http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="NEWSNATION.us" tvg-name="NewsNation" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/news-nation-us.png?raw=true" group-title="USA/🇺🇸" streamId="84" channel-number="84",NewsNation
+http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
+
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" group-title="USA/🇺🇸" streamId="85" channel-number="85",NFL Network
+http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="NHL Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="86" channel-number="86",NHL Network
+http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="87" channel-number="87",Nickelodeon East
+http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.us" tvg-name="NickJr East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="88" channel-number="88",NickJr East
+http://fl2.moveonjoy.com/NICK_JR/index.m3u8
+
+#EXTINF:-1 tvg-id="NickMusic.us" tvg-name="NickMusic USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-music-us.png?raw=true" group-title="USA/🇺🇸" streamId="89" channel-number="89",NickMusic USA
+http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
+
+#EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="NickToons" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true" group-title="USA/🇺🇸" streamId="90" channel-number="90",NickToons East
+http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
+
+#EXTINF:-1 tvg-id="OprahWinfreyNetwork.us" tvg-name="Oprah Winfrey Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oprah-winfrey-network-us.png?raw=true" group-title="USA/🇺🇸" streamId="91" channel-number="91",Oprah Winfrey Network (OWN) East
+http://fl2.moveonjoy.com/OWN/index.m3u8#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="92" channel-number="92",Outdoor Channel
+http://fl2.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="OxygenTrueCrime.us" tvg-name="Oxygen East" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-us.png?raw=true" group-title="USA/🇺🇸" streamId="93" channel-number="93",Oxygen East
+http://fl2.moveonjoy.com/OXYGEN/index.m3u8
+
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/paramount-network-us.png?raw=true" group-title="USA/🇺🇸" streamId="94" channel-number="94",Paramount Network East
+http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="POP.us" tvg-name="PopTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pop-us.png?raw=true" group-title="USA/🇺🇸" streamId="95" channel-number="95",PopTV East
+http://fl3.moveonjoy.com/Pop_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="ReelzChannel.us" tvg-name="ReelzChannel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52199_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="96" channel-number="96",ReelzChannel
+http://fl2.moveonjoy.com/REELZ/index.m3u8
+
+#EXTINF:-1 tvg-id="Revolt.us" tvg-name="Revolt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/revolt-us.png?raw=true" group-title="USA/🇺🇸" streamId="97" channel-number="97",Revolt
+http://fl2.moveonjoy.com/REVOLT/index.m3u8
+
+#EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="SEC Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true" group-title="USA/🇺🇸" streamId="98" channel-number="98",SEC Network
+http://fl2.moveonjoy.com/SEC_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="ParamountpluswithShowtime.us" tvg-name="Showtime East" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" group-title="USA/🇺🇸" streamId="99" channel-number="99",Showtime East
+http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+
+#EXTINF:-1 tvg-id="Showtime2.us" tvg-name="Showtime 2 East" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="USA/🇺🇸" streamId="100" channel-number="100",Showtime 2 East
+http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeExtreme.us" tvg-name="Showtime Extreme East" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-extreme-us.png?raw=true" group-title="USA/🇺🇸" streamId="101" channel-number="101",Showtime Extreme East
+http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+
+#EXTINF:-1 tvg-id="ShowtimeNext(Pacific).us" tvg-name="Showtime Next" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-next-us.png?raw=true" group-title="USA/🇺🇸" streamId="102" channel-number="102",Showtime Next
+http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+
+#EXTINF:-1 tvg-id="ShowtimeWomen.us" tvg-name="Showtime Women East" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-women-us.png?raw=true" group-title="USA/🇺🇸" streamId="103" channel-number="103",Showtime Women East
+http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Stadium" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/stadium-us.png?raw=true" group-title="USA/🇺🇸" streamId="104" channel-number="104",Stadium
+http://fl2.moveonjoy.com/STADIUM/index.m3u8
+
+#EXTINF:-1 tvg-id="Starz.us" tvg-name="Starz East" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="USA/🇺🇸" streamId="105" channel-number="105",Starz East
+http://fl2.moveonjoy.com/STARZ/index.m3u8
+
+#EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="Starz Comedy East" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-comedy-us.png?raw=true" group-title="USA/🇺🇸" streamId="106" channel-number="106",Starz Comedy East
+http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
+
+#EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="Starz Edge East" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-edge-us.png?raw=true" group-title="USA/🇺🇸" streamId="107" channel-number="107",Starz Edge East
+http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
+
+#EXTINF:-1 tvg-id="StarzEncore.us" tvg-name="Starz Encore East" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-us.png?raw=true" group-title="USA/🇺🇸" streamId="108" channel-number="108",Starz Encore East
+http://streamsy.online:2999/live/carlosbermudez/oZLRHZHL0z/1468.m3u8
+#EXTINF:-1 tvg-id="StarzEncoreAction.us" tvg-name="Starz Encore Action" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-action-us.png?raw=true" group-title="USA/🇺🇸" streamId="109" channel-number="109",Starz Encore Action
+http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+
+#EXTINF:-1 tvg-id="StarzEncoreWesterns.us" tvg-name="Starz Encore Westerns" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-westerns-us.png?raw=true" group-title="USA/🇺🇸" streamId="110" channel-number="110",Starz Encore Westerns
+http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
+
+#EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="SundanceTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="111" channel-number="111",SundanceTV
+http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
+
+#EXTINF:-1 tvg-id="Syfy.us" tvg-name="SYFY East" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" group-title="USA/🇺🇸" streamId="112" channel-number="112",SYFY East
+http://fl2.moveonjoy.com/SYFY/index.m3u8
+
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="113" channel-number="113",TBS East
+http://fl1.moveonjoy.com/TBS/index.m3u8
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="USA/🇺🇸" streamId="113" channel-number="113",TBS 
+http://143.244.60.30/TBS/index.m3u8
+#EXTINF:-1 group-title="China/🇨🇳",US TBS
+http://cord-cutter.net:8080/25464931/30585186/20867
+#EXTINF:-1 group-title="China/🇨🇳",US TNT (West)
+http://cord-cutter.net:8080/25464931/30585186/46688
+#EXTINF:-1 group-title="China/🇨🇳",US TNT East
+http://cord-cutter.net:8080/25464931/30585186/10455
+#EXTINF:-1 group-title="China/🇨🇳",US TSN 2
+http://cord-cutter.net:8080/25464931/30585186/47442
+#EXTINF:-1 group-title="China/🇨🇳",US: WWE NETWORK
+http://cord-cutter.net:8080/25464931/30585186/11645
+

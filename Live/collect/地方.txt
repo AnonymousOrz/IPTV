@@ -1,0 +1,2197 @@
+#EXTM3U
+#EXTINF:-1 group-title="测试｜地方",四川隆林综合
+rtmp://live.gxrb.com.cn/gx/longlin
+#EXTINF:-1 group-title="测试｜地方",四川全州综合
+rtmp://live.gxrb.com.cn/gx/quanzhou
+#EXTINF:-1 group-title="测试｜地方",四川灵山综合
+rtmp://live.gxrb.com.cn/gx/lingshan
+#EXTINF:-1 group-title="测试｜地方",四川田阳综合
+rtmp://live.gxrb.com.cn/gx/tianyang
+#EXTINF:-1 group-title="测试｜地方",四川兴安综合
+rtmp://live.gxrb.com.cn/gx/xingan
+#EXTINF:-1 group-title="测试｜地方",萧山生活频道
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
+#EXTINF:-1 group-title="测试｜地方",余杭综合频道
+http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="测试｜地方",余杭未来E频道
+http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
+#EXTINF:-1 group-title="测试｜地方",余姚姚江文化
+http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8?zzhed
+#EXTINF:-1 group-title="测试｜地方",上虞文化影院
+http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
+#EXTINF:-1 group-title="测试｜地方",上虞新商都
+http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
+#EXTINF:-1 group-title="测试｜地方",兰溪新闻综合
+http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="测试｜地方",缙云综合频道
+http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="测试｜地方",开化国家公园
+http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8?zzhed
+#EXTINF:-1 group-title="测试｜地方",龙游生活娱乐
+http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed
+#EXTINF:-1 group-title="测试｜地方",庆元综合频道
+http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="测试｜地方",绍兴公共频道
+http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?zzhed
+#EXTINF:-1 group-title="测试｜地方",绍兴文化影院
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
+#EXTINF:-1 group-title="测试｜地方",松阳综合频道
+http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="测试｜地方",遂昌综合频道
+http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="测试｜地方",田电视台
+http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="测试｜地方",文成综合频道
+http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="测试｜地方",文成二套
+http://l.cztvcloud.com/channels/lantian/SXwencheng2/720p.m3u8
+#EXTINF:-1 group-title="测试｜地方",舟山嵊泗综合
+http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
+#EXTINF:-1 group-title="测试｜地方",扬州-1
+http://cm-wshls.homecdn.com/live/8bb.m3u8?wsSession=79513967f36b97291b6ac172-171280250661852&wsIPSercert=0f540f265a90d9637de4bfc98dba8554
+#EXTINF:-1 group-title="测试｜地方",扬州-2
+http://cm-wshls.homecdn.com/live/8bd.m3u8?wsSession=71483682f8c082ffbcb3f35c-171280252396805&wsIPSercert=0f540f265a90d9637de4bfc98dba8554
+#EXTINF:-1 group-title="测试｜地方",扬州-3
+http://cm-wshls.homecdn.com/live/8bf.m3u8?wsSession=79513967f36b97291b6ac172-171280256099580&wsIPSercert=0f540f265a90d9637de4bfc98dba8554
+#EXTINF:-1 group-title="测试｜地方",镇江-1
+http://zjtv-wshls.homecdn.com/live/2aa50.m3u8?wsSession=6db346fad039327b1223d983-171280258830822&wsIPSercert=0f540f265a90d9637de4bfc98dba8554
+#EXTINF:-1 group-title="测试｜地方",镇江-2
+http://zjtv-wshls.homecdn.com/live/2aa16.m3u8?wsSession=7525bc2371fef9193fbdbeb8-171280267129975&wsIPSercert=0f540f265a90d9637de4bfc98dba8554
+#EXTINF:-1 group-title="测试｜地方",南京生活
+http://live.nbs.cn/channels/njtv/shpd/nbs06.m3u8
+#EXTINF:-1 group-title="测试｜地方",南京娱乐
+http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8
+#EXTINF:-1 group-title="测试｜地方",南京信息频道
+http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",苏州新闻
+http://tylive.kan0512.com/norecord/norecord_csztv1.m3u8
+#EXTINF:-1 group-title="测试｜地方",苏州社会经济
+http://tylive.kan0512.com/norecord/norecord_csztv2.m3u8
+#EXTINF:-1 group-title="测试｜地方",苏州生活资讯
+http://tylive.kan0512.com/norecord/norecord_csztv5.m3u8
+#EXTINF:-1 group-title="测试｜地方",无锡生活
+http://stream.thmz.com/wxtv4/sd/live.m3u8?_upt=968c13b81704871272
+#EXTINF:-1 group-title="测试｜地方",无锡经济
+http://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=cfacd5221704890772
+#EXTINF:-1 group-title="测试｜地方",无锡都市资讯
+http://stream.thmz.com/wxtv3/sd/live.m3u8?zjiangsd
+#EXTINF:-1 group-title="测试｜地方",无锡都市资讯
+http://stream.thmz.com/wxtv3/sd/live.m3u8?_upt=978cd8731706199708
+#EXTINF:-1 group-title="测试｜地方",无锡娱乐
+http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=acffe97a1704940314
+#EXTINF:-1 group-title="测试｜地方",泗阳综合
+http://3739115337.cloudvdn.com/a.m3u8?domain=siyang-tv-hls.cm.jstv.com&player=nwEAAKHdjSKP_58X&secondToken=secondToken%3A5FUijZmDyNMxtCDdne0YzSAwjuw&streamid=siyang-tv%3Asiyang-tv%2Fsiyangzh&v3=1
+#EXTINF:-1 group-title="测试｜地方",镇江新闻综合
+http://zjtv-wshls.homecdn.com/live/2aa50.m3u8?wsSession=a263bdc5a26cd01b57a80359-170493712215358&wsIPSercert=f56bd6194d219a5172dbed60eca6e9b0
+#EXTINF:-1 group-title="测试｜地方",镇江民生
+http://zjtv-wshls.homecdn.com/live/2aa16.m3u8?wsSession=25eac7fcbe9d822bf028ffc8-170493717234726&wsIPSercert=f56bd6194d219a5172dbed60eca6e9b0
+#EXTINF:-1 group-title="测试｜地方",常熟综合
+http://cstvplay.21cs.cn/cstv1/cstv1.m3u8
+#EXTINF:-1 group-title="测试｜地方",常熟民生经济
+http://cstvplay.21cs.cn/cstv2/cstv2.m3u8
+#EXTINF:-1 group-title="测试｜地方",淮安公共
+http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd
+#EXTINF:-1 group-title="测试｜地方",淮安无线
+http://live1.habctv.com/ysylsl/sd/live.m3u8?zjiangsd
+#EXTINF:-1 group-title="测试｜地方",海门经济生活
+http://2061827158.cloudvdn.com/a.m3u8?domain=haimen-tv-rtmp.cm.jstv.com&player=rZQAAIs1YJWHAKAX&secondToken=secondToken%3A0T5mP-ljzoiHFflfbDWnYUWhycY&streamid=haimen-tv%3Ahaimen-tv%2Fhaimenjjzh&v3=1
+#EXTINF:-1 group-title="测试｜地方",海门教育
+http://2061827158.cloudvdn.com/a.m3u8?domain=haimen-tv-rtmp.cm.jstv.com&player=rZQAAHySruaQAKAX&secondToken=secondToken%3Awziq3nhj5_ooRP0VogoHwI82vFo&streamid=haimen-tv%3Ahaimen-tv%2Fhaimenjyrw&v3=1
+#EXTINF:-1 group-title="测试｜地方",睢宁综合
+http://3739115311.cloudvdn.com/a.m3u8?domain=suining-tv-hls.cm.jstv.com&player=TwMAAPjPskOkJ6kX&secondToken=secondToken%3AjegfwzYXwUE9HzG7kRfhCd81WMU&streamid=suining-tv%3Asuining-tv%2Fsuiningzh&v3=1&zjiangsd=
+#EXTINF:-1 group-title="测试｜地方",睢宁生活教育
+http://3739115343.cloudvdn.com/a.m3u8?domain=suining-tv-hls.cm.jstv.com&player=yGsAAC1Webu1J6kX&secondToken=secondToken%3Amjk0jn9TQkTVaw0MnaOkN2uGNkk&streamid=suining-tv%3Asuining-tv%2Fsuiningsh&v3=1&zjiangsd=
+#EXTINF:-1 group-title="测试｜地方",睢宁三农
+http://3739115337.cloudvdn.com/a.m3u8?domain=suining-tv-hls.cm.jstv.com&player=nwEAAJApyIx-AKAX&secondToken=secondToken%3AfyPrvACXUQ_VSZUu3Rxm-2py1fo&streamid=suining-tv%3Asuining-tv%2Fsuiningsn&v3=1
+#EXTINF:-1 group-title="测试｜地方",BRTV新闻
+http://live.funhillrm.com/5/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",北京纪实科教
+https://live.goodiptv.club/api/cqyx.php?id=bjayjs
+#EXTINF:-1 group-title="测试｜地方",北京纪实科教
+http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel22030/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",房山无线频道
+http://live.funhillrm.com/2/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",通州电视台
+http://pull.dayuntongzhou.com/live/tztv.m3u8
+#EXTINF:-1 group-title="测试｜地方",湖南经视
+http://php.jdshipin.com:8880/iptv.php?id=hnjs
+#EXTINF:-1 group-title="测试｜地方",湖南都市
+http://php.jdshipin.com:8880/iptv.php?id=hnds
+#EXTINF:-1 group-title="测试｜地方",湖南爱晚
+http://php.jdshipin.com:8880/iptv.php?id=hngg
+#EXTINF:-1 group-title="测试｜地方",湖南电视剧
+http://php.jdshipin.com:8880/iptv.php?id=hndsj
+#EXTINF:-1 group-title="测试｜地方",湖南娱乐
+http://php.jdshipin.com:8880/iptv.php?id=hnyl
+#EXTINF:-1 group-title="测试｜地方",湖南国际
+http://php.jdshipin.com:8880/iptv.php?id=hngj
+#EXTINF:-1 group-title="测试｜地方",湘潭新闻综合
+http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
+#EXTINF:-1 group-title="测试｜地方",湘潭公共频道
+http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
+#EXTINF:-1 group-title="测试｜地方",中方综合
+https://liveplay-srs.voc.com.cn/hls/tv/18_3aa230.m3u8
+#EXTINF:-1 group-title="测试｜地方",麻阳综合
+https://liveplay-srs.voc.com.cn/hls/tv/38_6f397d.m3u8
+#EXTINF:-1 group-title="测试｜地方",双峰县电视台
+https://liveplay-srs.voc.com.cn/hls/tv/131_acfb72.m3u8
+#EXTINF:-1 group-title="测试｜地方",攸县电视台
+https://liveplay-srs.voc.com.cn/hls/tv/158_423c80.m3u8
+#EXTINF:-1 group-title="测试｜地方",靖州综合
+https://liveplay-srs.voc.com.cn/hls/tv/34_5156ed.m3u8
+#EXTINF:-1 group-title="测试｜地方",桑植综合
+https://liveplay-srs.voc.com.cn/hls/tv/185_938292.m3u8
+#EXTINF:-1 group-title="测试｜地方",新化综合
+https://liveplay-srs.voc.com.cn/hls/tv/170_49c556.m3u8
+#EXTINF:-1 group-title="测试｜地方",元江综合
+https://liveplay-srs.voc.com.cn/hls/tv/163_2c7011.m3u8
+#EXTINF:-1 group-title="测试｜地方",新邵新闻综合
+https://liveplay-srs.voc.com.cn/hls/tv/171_daca67.m3u8
+#EXTINF:-1 group-title="测试｜地方",绥宁电视台
+https://liveplay-srs.voc.com.cn/hls/tv/182_3c0dc6.m3u8
+#EXTINF:-1 group-title="测试｜地方",城步综合
+https://liveplay-srs.voc.com.cn/hls/tv/169_b4d7a4.m3u8
+#EXTINF:-1 group-title="测试｜地方",汉寿综合
+https://liveplay-srs.voc.com.cn/hls/tv/31_226756.m3u8
+#EXTINF:-1 group-title="测试｜地方",耒阳综合
+https://liveplay-srs.voc.com.cn/hls/tv/27_e9e1e5.m3u8
+#EXTINF:-1 group-title="测试｜地方",衡阳综合
+https://liveplay-srs.voc.com.cn/hls/tv/183_554704.m3u8
+#EXTINF:-1 group-title="测试｜地方",永兴新闻综合
+https://liveplay-srs.voc.com.cn/hls/tv/40_1d0ed0.m3u8
+#EXTINF:-1 group-title="测试｜地方",汝城综合
+https://liveplay-srs.voc.com.cn/hls/tv/149_40cf24.m3u8
+#EXTINF:-1 group-title="测试｜地方",汨罗综合
+https://liveplay-srs.voc.com.cn/hls/tv/166_a4ad1b.m3u8
+#EXTINF:-1 group-title="测试｜地方",嘉禾新闻综合
+https://liveplay-srs.voc.com.cn/hls/tv/184_e3af1a.m3u8
+#EXTINF:-1 group-title="测试｜地方",吉首综合
+https://liveplay-srs.voc.com.cn/hls/tv/143_70175b.m3u8
+#EXTINF:-1 group-title="测试｜地方",花垣综合
+https://liveplay-srs.voc.com.cn/hls/tv/134_d590ee.m3u8
+#EXTINF:-1 group-title="测试｜地方",古丈综合
+https://liveplay-srs.voc.com.cn/hls/tv/144_4efb38.m3u8
+#EXTINF:-1 group-title="测试｜地方",临武综合
+https://liveplay-srs.voc.com.cn/hls/tv/148_feda2f.m3u8
+#EXTINF:-1 group-title="测试｜地方",桂阳综合
+https://liveplay-srs.voc.com.cn/hls/tv/7_7c833e.m3u8
+#EXTINF:-1 group-title="测试｜地方",桂东综合
+https://liveplay-srs.voc.com.cn/hls/tv/174_6ab9f8.m3u8
+#EXTINF:-1 group-title="测试｜地方",芷江综合
+https://liveplay-srs.voc.com.cn/hls/tv/20_68acda.m3u8
+#EXTINF:-1 group-title="测试｜地方",新晃综合
+https://liveplay-srs.voc.com.cn/hls/tv/23_5d556a.m3u8
+#EXTINF:-1 group-title="测试｜地方",蓝山综合
+https://liveplay-srs.voc.com.cn/hls/tv/26_370917.m3u8
+#EXTINF:-1 group-title="测试｜地方",安化综合
+https://liveplay-srs.voc.com.cn/hls/tv/204_16cb0f.m3u8
+#EXTINF:-1 group-title="测试｜地方",龙山综合
+https://liveplay-srs.voc.com.cn/hls/tv/146_f067fe.m3u8
+#EXTINF:-1 group-title="测试｜地方",长沙新闻综合
+https://liveplay-srs.voc.com.cn/hls/tv/203_10cdf5.m3u8
+#EXTINF:-1 group-title="测试｜地方",南县综合
+http://hnstnx.chinashadt.com:2037/live/10001.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",沅陵新闻综合
+https://liveplay-yuanling.rednet.cn/live/YL-TV.m3u8
+#EXTINF:-1 group-title="测试｜地方",湘潭公共频道
+http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8?zhund
+#EXTINF:-1 group-title="测试｜地方",广东移动
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=gdyd
+#EXTINF:-1 group-title="测试｜地方",广州综合
+http://php.jdshipin.com:8880/gztv.php?id=zhonghe
+#EXTINF:-1 group-title="测试｜地方",广州新闻
+http://php.jdshipin.com:8880/gztv.php?id=xinwen
+#EXTINF:-1 group-title="测试｜地方",广州竞赛
+http://php.jdshipin.com:8880/gztv.php?id=jingsai
+#EXTINF:-1 group-title="测试｜地方",广州影视
+http://php.jdshipin.com:8880/gztv.php?id=yingshi
+#EXTINF:-1 group-title="测试｜地方",广州法治
+http://php.jdshipin.com:8880/gztv.php?id=fazhi
+#EXTINF:-1 group-title="测试｜地方",广州南国都市
+http://php.jdshipin.com:8880/gztv.php?id=shenghuo
+#EXTINF:-1 group-title="测试｜地方",广州综合
+http://r.jdshipin.com/snhya
+#EXTINF:-1 group-title="测试｜地方",广州影视
+http://r.jdshipin.com/sFw4S
+#EXTINF:-1 group-title="测试｜地方",东莞新闻综合
+http://php.jdshipin.com:8880/0769.php?id=xwzh
+#EXTINF:-1 group-title="测试｜地方",东莞生活资讯
+http://php.jdshipin.com:8880/0769.php?id=shzx
+#EXTINF:-1 group-title="测试｜地方",佛山综合
+http://php.jdshipin.com:8880/fstv.php?id=fszh
+#EXTINF:-1 group-title="测试｜地方",佛山影视
+http://php.jdshipin.com:8880/fstv.php?id=fsys
+#EXTINF:-1 group-title="测试｜地方",佛山公共
+http://php.jdshipin.com:8880/fstv.php?id=fsgg
+#EXTINF:-1 group-title="测试｜地方",佛山南海
+http://php.jdshipin.com:8880/fstv.php?id=fsnh
+#EXTINF:-1 group-title="测试｜地方",佛山顺德
+http://php.jdshipin.com:8880/fstv.php?id=fssd
+#EXTINF:-1 group-title="测试｜地方",佛山高明
+http://php.jdshipin.com:8880/fstv.php?id=fsgm
+#EXTINF:-1 group-title="测试｜地方",佛山三水
+http://php.jdshipin.com:8880/fstv.php?id=fsss
+#EXTINF:-1 group-title="测试｜地方",云浮综合
+https://livestream.oeeee.com/slive/17806.m3u8
+#EXTINF:-1 group-title="测试｜地方",云浮文旅
+https://livestream.oeeee.com/slive/17807.m3u8
+#EXTINF:-1 group-title="测试｜地方",河源综合
+http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",河源公共
+http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",潮州综合
+http://time-vod-qhlive.sobeylive.com/czbtv2019/czzhpd.m3u8
+#EXTINF:-1 group-title="测试｜地方",潮州民生
+http://time-vod-qhlive.sobeylive.com/czbtv2019/czggpd.m3u8
+#EXTINF:-1 group-title="测试｜地方",汕头综合
+http://php.jdshipin.com:8880/PLTV/iptv.php?id=stzh
+#EXTINF:-1 group-title="测试｜地方",肇庆公共
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=zqgg
+#EXTINF:-1 group-title="测试｜地方",广宁综合
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=gnzh
+#EXTINF:-1 group-title="测试｜地方",怀集综合
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=hjzh
+#EXTINF:-1 group-title="测试｜地方",东莞新闻综合
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=dgxw
+#EXTINF:-1 group-title="测试｜地方",东莞生活资讯
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=dggg
+#EXTINF:-1 group-title="测试｜地方",惠阳台
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=hyt
+#EXTINF:-1 group-title="测试｜地方",惠东台
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=hdt
+#EXTINF:-1 group-title="测试｜地方",梅州综合
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=mzzh
+#EXTINF:-1 group-title="测试｜地方",河源综合
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=hyzh
+#EXTINF:-1 group-title="测试｜地方",河源公共
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=hygg
+#EXTINF:-1 group-title="测试｜地方",连平台
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=lpt
+#EXTINF:-1 group-title="测试｜地方",紫金台
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=zjt
+#EXTINF:-1 group-title="测试｜地方",东源台
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=dyt
+#EXTINF:-1 group-title="测试｜地方",阳江1
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=yjtv1
+#EXTINF:-1 group-title="测试｜地方",阳江2
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=yjtv2
+#EXTINF:-1 group-title="测试｜地方",阳春台
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=yct
+#EXTINF:-1 group-title="测试｜地方",阳西综合
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=yxzh
+#EXTINF:-1 group-title="测试｜地方",开平综合
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=kpzh
+#EXTINF:-1 group-title="测试｜地方",开平生活
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=kpsh
+#EXTINF:-1 group-title="测试｜地方",台山台
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=tst
+#EXTINF:-1 group-title="测试｜地方",新会台
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=xht
+#EXTINF:-1 group-title="测试｜地方",化州综合
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=hzzh
+#EXTINF:-1 group-title="测试｜地方",信宜综合
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=xyzh
+#EXTINF:-1 group-title="测试｜地方",廉江台
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=ljt
+#EXTINF:-1 group-title="测试｜地方",遂溪台
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=sxt
+#EXTINF:-1 group-title="测试｜地方",英德新闻综合
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=ydxwzh
+#EXTINF:-1 group-title="测试｜地方",连州综合
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=lzzh
+#EXTINF:-1 group-title="测试｜地方",佛冈综合
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=fgzh
+#EXTINF:-1 group-title="测试｜地方",普宁综合
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=pnzh
+#EXTINF:-1 group-title="测试｜地方",潮安综合
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=cazh
+#EXTINF:-1 group-title="测试｜地方",罗定台
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=ldt
+#EXTINF:-1 group-title="测试｜地方",乐昌台
+http://php.jdshipin.com:8880/PLTV/chudian.php?id=lct
+#EXTINF:-1 group-title="测试｜地方",驻马店公共频道
+http://tvlive.zmdtvw.cn/live/5927138998607870056/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",驻马店科教频道
+http://tvlive.zmdtvw.cn/live/8395198981051753732/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",汝州新闻频道
+http://live.dxhmt.cn:9081/tv/10482-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",社旗综合
+http://live.dxhmt.cn:9081/tv/11327-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",信阳综合
+http://push.xytv.cn:80/live/871627674812443875/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",鹤岗新闻综合
+http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
+#EXTINF:-1 group-title="测试｜地方",济源电视一套
+http://live.dxhmt.cn:9081/tv/19001-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",山西经济
+http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true
+#EXTINF:-1 group-title="测试｜地方",山西社会与法治
+http://liveflash.sxrtv.com/live/sxedu.m3u8?sub_m3u8=true&edge_slice=true
+#EXTINF:-1 group-title="测试｜地方",山西文体生活
+http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true
+#EXTINF:-1 group-title="测试｜地方",山西影视
+http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
+#EXTINF:-1 group-title="测试｜地方",山西黄河
+http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
+#EXTINF:-1 group-title="测试｜地方",高平综合
+http://live.gprmt.cn/gpnews/hd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",晋中公共频道
+http://jzlive.jztvnews.com:90/live/jzgg.m3u8
+#EXTINF:-1 group-title="测试｜地方",黎城综合频道
+http://111.53.96.67:8081/live/1/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",临猗综合频道
+http://pili-live-hls.lyzx.live.chinacici.cn/lyrmt/ceshi-ly.m3u8
+#EXTINF:-1 group-title="测试｜地方",运城公共频道
+http://live.0359tv.com/lsdream/t667aTY/1000/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",运城科技教育
+http://live.0359tv.com/lsdream/p5eq48m/1000/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",运城新闻综合
+http://live.0359tv.com/lsdream/ss4Lj11/1000/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",长子综合频道
+http://zzlive.zzc-media.com:8092/live/xwzh.m3u8
+#EXTINF:-1 group-title="测试｜地方",定襄综合
+http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8?zshanxd
+#EXTINF:-1 group-title="测试｜地方",汾西综合
+https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8?zshanxd
+#EXTINF:-1 group-title="测试｜地方",怀仁综合
+http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8?zshanxd
+#EXTINF:-1 group-title="测试｜地方",襄汾综合
+http://7sycrzf7.live.sxmty.com/live/hls/da9222d15ce7491d85fe3519e5201df5/af161dfd2a434b22b3b75fdd72fb9038-1.m3u8?zshanxd
+#EXTINF:-1 group-title="测试｜地方",襄垣电视
+http://video.xyxrmt.com/lsdream/2MAgsgb/1000/live.m3u8?zshanxd
+#EXTINF:-1 group-title="测试｜地方",阳泉综合
+https://live.yqrtv.com/xwpd/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",阳泉科教
+https://live.yqrtv.com/xwchne/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",晋城公共
+http://live.jinnews.com.cn/ggpd/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",晋中公共频道
+http://jzdb.jztvnews.com:83/live/mount_for_ts/jzgg.m3u8
+#EXTINF:-1 group-title="测试｜地方",壶关电视台
+http://zmjp3jin.live.sxmty.com/live/hls/268fe96f955d496db37fb10bb887cda9/fc196029d289449ea524a94a95379a0d.m3u8
+#EXTINF:-1 group-title="测试｜地方",平顺综合
+https://stream.icelook.cn/2daa869d1623782d/6679643898219856900_1602492802.m3u8?auth_key=1893456000-0-0-8c6e3e73d78411a6bd6e2faef2b275d0
+#EXTINF:-1 group-title="测试｜地方",怀仁综合频道
+http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8
+#EXTINF:-1 group-title="测试｜地方",平鲁综合频道
+https://stream.icelook.cn/790d0a0f38c07f31/6728300245723120644_1609747594.m3u8?auth_key=1893456000-0-0-0cc4be5653a88cdb748a4543643d0fdb
+#EXTINF:-1 group-title="测试｜地方",汾西综合
+https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8
+#EXTINF:-1 group-title="测试｜地方",襄汾综合
+http://7sycrzf7.live.sxmty.com/live/hls/da9222d15ce7491d85fe3519e5201df5/af161dfd2a434b22b3b75fdd72fb9038-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",翼城综合
+http://live.aiyicheng.com.cn/channel1/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",定襄综合
+http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",五台综合
+https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",五寨综合
+https://stream.icelook.cn/cf2874738208c975/6727103226484622340_1607389965.m3u8?auth_key=1893456000-0-0-c8ce454296feaadfd96bc25904e2b688
+#EXTINF:-1 group-title="测试｜地方",原平综合
+http://xkmspyxn.live.sxmty.com/live/hls/65072fcc05414062bf02088d2a2a77b2/9da977614b044ef59d11779e997a12f8-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",灵丘电视台
+https://stream.icelook.cn/1a7c625fde427dc3/6735154231323395076_1611041008.m3u8?auth_key=1893456000-0-0-fe9d45877d8cdddb4afccd9c1a12f3f8
+#EXTINF:-1 group-title="测试｜地方",安徽经济生活
+http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959.flv
+#EXTINF:-1 group-title="测试｜地方",安徽综艺体育
+http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
+#EXTINF:-1 group-title="测试｜地方",安徽影视
+http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be.flv
+#EXTINF:-1 group-title="测试｜地方",亳州农村
+http://220.180.110.101:8083/videos/live/39/13/o4ncrHkSp7q09/o4ncrHkSp7q09.M3U8
+#EXTINF:-1 group-title="测试｜地方",固镇新闻
+http://www.guzhenm.com:7001/hls/hd-live.m3u8
+#EXTINF:-1 group-title="测试｜地方",固镇影视
+http://www.guzhenm.com:7004/hls/hd-live.m3u8
+#EXTINF:-1 group-title="测试｜地方",灵璧综合
+http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",六安公共
+http://pili-live-rtmp.luan2.hfmt.net/luan2/ggpd.m3u8
+#EXTINF:-1 group-title="测试｜地方",六安新闻综合
+http://pili-live-rtmp.luan2.hfmt.net/luan2/jjpd.m3u8
+#EXTINF:-1 group-title="测试｜地方",宿州公共
+http://live.ahsz.tv/video/s10001-ggpd/index.m3u8?zanhd
+#EXTINF:-1 group-title="测试｜地方",六安新闻综合
+http://pili-live-rtmp.luan2.hfmt.net/luan2/jjpd.m3u8?zanhd
+#EXTINF:-1 group-title="测试｜地方",六安公共
+http://pili-live-rtmp.luan2.hfmt.net/luan2/ggpd.m3u8?zanhd
+#EXTINF:-1 group-title="测试｜地方",灵璧综合
+http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8?zanhd
+#EXTINF:-1 group-title="测试｜地方",霍山综合
+http://ahhsdb.chinashadt.com:1936/live/stream:ahws.stream/playlist.m3u8?zanhd
+#EXTINF:-1 group-title="测试｜地方",肥西综合
+http://112.30.194.221:20080/live/7210e3a27cc64ac4a3f7aba2e2b683d5/hls.m3u8?zanhd
+#EXTINF:-1 group-title="测试｜地方",歙县综合频道
+http://112.30.194.221:20080/live/4b3024127d1c472986ccdcb454f81a9f/hls.m3u8?zanhd
+#EXTINF:-1 group-title="测试｜地方",宁化电视一套
+http://fjnhdb.chinashadt.com:2036/live/stream:nh1.stream/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",福州综合
+http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",福州生活
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",龙岩综合
+http://stream.lytv.net.cn/2/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",新罗电视一套
+http://stream.lyxltv.com/xltv/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",武夷山综合频道
+http://fjwysdb.chinashadt.com:2036/live/1.stream/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",武夷山文旅茶
+http://fjwysdb.chinashadt.com:2036/live/3.stream/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",漳浦综合
+http://220.161.87.62:8090/hls/0/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",三明新闻综合
+http://fjnhdb.chinashadt.com:2036/live/stream:nh2.stream/playlist.m3u8?zfud
+#EXTINF:-1 group-title="测试｜地方",新罗电视一套
+http://stream.lyxltv.com/xltv/sd/live.m3u8?zfud
+#EXTINF:-1 group-title="测试｜地方",建宁综合频道
+https://p2.weizan.cn/2144741973/075444991326676404/live.m3u8?zfud
+#EXTINF:-1 group-title="测试｜地方",宁化电视一套
+http://fjnhdb.chinashadt.com:2036/live/stream:nh1.stream/playlist.m3u8?fujian
+#EXTINF:-1 group-title="测试｜地方",云霄综合
+http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
+#EXTINF:-1 group-title="测试｜地方",漳浦综合
+http://220.161.87.62:8090/hls/0/index.m3u8?zfud
+#EXTINF:-1 group-title="测试｜地方",福州少儿
+http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",厦门第一
+http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xiamen1_2/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",云霄综合
+http://live.zzyxxw.com:85/live/xwzh.m3u8
+#EXTINF:-1 group-title="测试｜地方",三明综合
+http://stream.smntv.cn/smtv1/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",三明公共
+http://stream.smntv.cn/smtv2/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",三明公共频道
+http://stream.smntv.cn/smtv2/sd/live.m3u8?zfud
+#EXTINF:-1 group-title="测试｜地方",湖北影视
+http://cdn.jdshipin.com:8880/hbgd.php?id=hbys_1000
+#EXTINF:-1 group-title="测试｜地方",武汉电视剧
+http://stream.appwuhan.com/2tzb/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",武汉经济
+http://stream.appwuhan.com/4tzb/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",武汉外语
+http://stream.appwuhan.com/6tzb/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",武汉少儿
+http://stream.appwuhan.com/7tzb/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",武汉教育
+http://stream.appwuhan.com/jyzb/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",武汉文体
+http://stream.appwuhan.com/5tzb/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",荆门公共
+http://stream.jmtv.com.cn/ngpd/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",荆门教育
+http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",黄冈生活
+http://huanggang-live21.cjyun.org/10210/s10210-xwgg.m3u8?auth_key=1735660799-0-0-39c6d712b6337fbdefe84e2d22e34513
+#EXTINF:-1 group-title="测试｜地方",宜昌综合
+http://player.521fanli.cn/1691/hubei/yichangcjym3u8.php?id=yichangzh
+#EXTINF:-1 group-title="测试｜地方",宜昌旅游生活
+http://player.521fanli.cn/1691/hubei/yichangcjym3u8.php?id=yichanglysh
+#EXTINF:-1 group-title="测试｜地方",孝感公共频道
+http://live.yingxi.tv/channel1/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",麻城综合
+http://119.36.30.199:8888/mctv1.m3u8
+#EXTINF:-1 group-title="测试｜地方",云南少儿
+http://tvlive.ynradio.com/live/yunnanshaoer/chunks.m3u8
+#EXTINF:-1 group-title="测试｜地方",云南国际
+http://tvlive.ynradio.com/live/yunnanguoji/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",红河州新闻综合
+http://tv.drs.hhtv.cc:8100/channellive/hhtv-1.flv
+#EXTINF:-1 group-title="测试｜地方",红河州公共频道
+http://file.hhtv.cc/cms/videos/nmip-media/channellive/channel2/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",红河州公共频道
+http://tv.drs.hhtv.cc:8100/channellive/hhtv-2.flv
+#EXTINF:-1 group-title="测试｜地方",文山州新闻综合
+http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
+#EXTINF:-1 group-title="测试｜地方",文山州公共
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",西双版纳综合
+http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel1/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",西双版纳公共
+http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel3/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",新平综合
+http://livebroadcast.ccwb.cn/live/w1615257519790969.m3u8
+#EXTINF:-1 group-title="测试｜地方",彝良综合
+http://livebroadcast.ccwb.cn/live/w1606370492402991.m3u8
+#EXTINF:-1 group-title="测试｜地方",镇雄电视台
+http://livebroadcast.ccwb.cn/live/w1606722098119972.m3u8
+#EXTINF:-1 group-title="测试｜地方",福贡综合
+http://livebroadcast.ccwb.cn/live/w1612505860303999.m3u8
+#EXTINF:-1 group-title="测试｜地方",泸水综合
+http://livebroadcast.ccwb.cn/live/w1596164431584927.m3u8
+#EXTINF:-1 group-title="测试｜地方",个旧综合
+http://tv.drs.hhtv.cc:8100/channellive/gjdst.flv
+#EXTINF:-1 group-title="测试｜地方",个旧综合
+http://file.hhtv.cc/cms/videos/nmip-media/channellive/channel6/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",红河县综合
+http://file.hhtv.cc/cms/videos/nmip-media/channellive/channel3/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",红河县综合
+http://tv.drs.hhtv.cc:8100/channellive/hhxdst.flv
+#EXTINF:-1 group-title="测试｜地方",屏边综合
+http://file.hhtv.cc/cms/videos/nmip-media/channellive/channel5/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",元阳综合
+http://file.hhtv.cc/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",元阳综合
+http://tv.drs.hhtv.cc:8100/channellive/yydst.flv
+#EXTINF:-1 group-title="测试｜地方",麻栗坡电视台
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",麻栗坡电视台
+http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv
+#EXTINF:-1 group-title="测试｜地方",宾川一套
+http://live.bcrmtzx.com/tv01/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",昌宁电视台
+http://live.ynurl.com/video/s10047-cntv/index.m3u8?zyund
+#EXTINF:-1 group-title="测试｜地方",峨山电视
+http://live.ynurl.com/video/s10034-ESTV/index.m3u8?zyund
+#EXTINF:-1 group-title="测试｜地方",福贡综合
+http://livebroadcast.ccwb.cn/live/w1612505860303999.m3u8?zyund
+#EXTINF:-1 group-title="测试｜地方",广南电视台
+http://live.ynurl.com/video/s10031-gnxgbds/index.m3u8?zyund
+#EXTINF:-1 group-title="测试｜地方",红河县综合
+http://tv.drs.hhtv.cc:8100/channellive/hhxdst.flv?zyund
+#EXTINF:-1 group-title="测试｜地方",红河州公共
+http://tv.drs.hhtv.cc:8100/channellive/hhtv-2.flv?zyund
+#EXTINF:-1 group-title="测试｜地方",红河州新闻综合
+http://tv.drs.hhtv.cc:8100/channellive/hhtv-1.flv?zyund
+#EXTINF:-1 group-title="测试｜地方",江川综合
+http://live.ynurl.com/video/s10037-JCTV/index.m3u8?zyund
+#EXTINF:-1 group-title="测试｜地方",开远综合
+http://live.ynurl.com/video/s10044-KYTV/index.m3u8?zyund
+#EXTINF:-1 group-title="测试｜地方",良综合
+http://livebroadcast.ccwb.cn/live/w1606370492402991.m3u8?zyund
+#EXTINF:-1 group-title="测试｜地方",梁河综合
+http://live.ynurl.com/video/s10032-lhtv/index.m3u8?zyund
+#EXTINF:-1 group-title="测试｜地方",陇川综合
+http://live.ynurl.com/video/s10027-LCDST/index.m3u8?zyund
+#EXTINF:-1 group-title="测试｜地方",麻栗坡电视台
+http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv?zyund
+#EXTINF:-1 group-title="测试｜地方",麻栗坡电视台
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8?zyund
+#EXTINF:-1 group-title="测试｜地方",马关电视台
+http://live.ynurl.com/video/s10046-001/index.m3u8?zyund
+#EXTINF:-1 group-title="测试｜地方",芒市综合
+http://live.ynurl.com/video/s10001-mstv1/index.m3u8?zyund
+#EXTINF:-1 group-title="测试｜地方",屏边综合
+http://live.ynurl.com/video/s10040-pbzh/index.m3u8?zyund
+#EXTINF:-1 group-title="测试｜地方",瑞丽综合
+http://live.ynurl.com/video/s10021-rltv/index.m3u8?zyund
+#EXTINF:-1 group-title="测试｜地方",施甸综合
+http://live.ynurl.com/video/s10048-TV/index.m3u8?zyund
+#EXTINF:-1 group-title="测试｜地方",石屏综合
+http://live.ynurl.com/video/s10059-SPTV/index.m3u8?zyund
+#EXTINF:-1 group-title="测试｜地方",腾冲综合
+http://live.ynurl.com/video/s10012-TCTV/index.m3u8?zyund
+#EXTINF:-1 group-title="测试｜地方",文山州公共
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8?zyund
+#EXTINF:-1 group-title="测试｜地方",西双版纳公共
+http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel3/playlist.m3u8?zyund
+#EXTINF:-1 group-title="测试｜地方",西双版纳综合
+http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel1/playlist.m3u8?zyund
+#EXTINF:-1 group-title="测试｜地方",盈江综合
+http://live.ynurl.com/video/s10016-YJTV-2/index.m3u8?zyund
+#EXTINF:-1 group-title="测试｜地方",元阳综合
+http://tv.drs.hhtv.cc:8100/channellive/yydst.flv?zyund
+#EXTINF:-1 group-title="测试｜地方",广南电视台
+http://live.ynurl.com/video/s10031-gnxgbds/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",江川综合
+http://live.ynurl.com/video/s10037-JCTV/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",陇川综合
+http://live.ynurl.com/video/s10027-LCDST/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",马关电视台
+http://live.ynurl.com/video/s10046-001/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",芒市综合
+http://live.ynurl.com/video/s10001-mstv1/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",蒙自综合
+http://live.ynurl.com/video/s10019-mzdst/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",瑞丽频道
+http://live.ynurl.com/video/s10021-rltv/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",施甸综合
+http://live.ynurl.com/video/s10048-TV/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",文山市电视台
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel17/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",砚山电视台
+http://live.ynurl.com/video/s10020-ystv/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",砚山频道
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel16/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",赣州公共
+http://wb.jxgztv.com/live/gztv2.flv
+#EXTINF:-1 group-title="测试｜地方",赣州教育
+http://wb.jxgztv.com/live/gztv3.flv
+#EXTINF:-1 group-title="测试｜地方",赣州综合
+http://wb.jxgztv.com/live/gztv1.m3u8
+#EXTINF:-1 group-title="测试｜地方",庐山综合
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_lushan.m3u8
+#EXTINF:-1 group-title="测试｜地方",都昌新闻综合
+http://live02.jxtvcn.com.cn/live/ganyun_duchang.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
+#EXTINF:-1 group-title="测试｜地方",庐山综合
+http://live02.jxtvcn.com.cn/live/ganyun_lushan.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
+#EXTINF:-1 group-title="测试｜地方",彭泽综合
+http://live02.jxtvcn.com.cn/live/ganyun_pengze.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
+#EXTINF:-1 group-title="测试｜地方",武宁新闻综合
+http://live02.jxtvcn.com.cn/live/ganyun_wuning.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
+#EXTINF:-1 group-title="测试｜地方",永修综合
+http://live02.jxtvcn.com.cn/live/ganyun_yongxiu.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
+#EXTINF:-1 group-title="测试｜地方",萍乡新闻综合
+http://live02.jxtvcn.com.cn/live/ganyun_px_xwzh.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
+#EXTINF:-1 group-title="测试｜地方",萍乡公共
+http://live02.jxtvcn.com.cn/live/ganyun_px_ggpd.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
+#EXTINF:-1 group-title="测试｜地方",上饶新闻综合
+http://live02.jxtvcn.com.cn/live/ganyun_shangrao1.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
+#EXTINF:-1 group-title="测试｜地方",上饶经济旅游
+http://live02.jxtvcn.com.cn/live/ganyun_shangrao2.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
+#EXTINF:-1 group-title="测试｜地方",广丰综合
+http://live02.jxtvcn.com.cn/live/ganyun_guangfeng.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
+#EXTINF:-1 group-title="测试｜地方",余干综合
+http://live02.jxtvcn.com.cn/live/ganyun_yugan.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
+#EXTINF:-1 group-title="测试｜地方",分宜综合
+http://live02.jxtvcn.com.cn/live/ganyun_fenyi_tv.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
+#EXTINF:-1 group-title="测试｜地方",铜鼓综合
+http://live02.jxtvcn.com.cn/live/ganyun_tonggu.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
+#EXTINF:-1 group-title="测试｜地方",万载综合
+http://live02.jxtvcn.com.cn/live/ganyun_wanzai.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
+#EXTINF:-1 group-title="测试｜地方",宁都综合
+http://live02.jxtvcn.com.cn/live/ganyun_ningdu.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
+#EXTINF:-1 group-title="测试｜地方",井冈山综合
+http://live02.jxtvcn.com.cn/live/ganyun_jgs.m3u8?t=2510710360&token=70d2602b47c0da05edb07c49ea83d573
+#EXTINF:-1 group-title="测试｜地方",广安新闻综合
+http://live1.gatv.com.cn:85/live/XWZH.m3u8
+#EXTINF:-1 group-title="测试｜地方",广安公共频道
+http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
+#EXTINF:-1 group-title="测试｜地方",达州公共频道
+http://tv.drs.dzxw.net/channellive/ggpd-dz2.flv
+#EXTINF:-1 group-title="测试｜地方",达州通川频道
+http://tv.drs.dzxw.net/channellive/tcpd-dz3.flv
+#EXTINF:-1 group-title="测试｜地方",泸州新闻综合
+http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",泸州公共频道
+http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel102221/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",泸州科教频道
+http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",凉山新闻综合
+http://file.yizu.tv/nmip-media/channellive/channel106606/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",凉山彝语频道
+http://file.yizu.tv/nmip-media/channellive/channel107323/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",自贡综合频道
+http://110.189.153.160:1001/zhpd.flv
+#EXTINF:-1 group-title="测试｜地方",自贡公共频道
+http://110.189.153.160:1002/ggpd.flv
+#EXTINF:-1 group-title="测试｜地方",德阳公共频道
+http://scdytv.cn:1935/live/m_ggpd_livevideo/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",眉山公共频道
+http://live2.scmstv.cn/ggpd/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",甘孜综合频道
+http://tv.drs.ganzitv.com:8100/channellive/gztv.flv
+#EXTINF:-1 group-title="测试｜地方",龙泉驿新闻综合
+http://live.newslqy.com/live/xwpd.m3u8
+#EXTINF:-1 group-title="测试｜地方",双流综合频道
+http://171.221.250.130:18888/27e684978eb642eeb90ab815f6cc51bf/c41893de5e8645b3b43aef1640859b0d.m3u8
+#EXTINF:-1 group-title="测试｜地方",渠县城市公共
+http://222.208.224.227:81/hls/8ishqdtt.m3u8
+#EXTINF:-1 group-title="测试｜地方",营山电视台
+http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",金川乡村频道
+http://live.jinchuanrmt.com:90/live/jcxc.m3u8
+#EXTINF:-1 group-title="测试｜地方",金川乡村频道
+http://139.203.180.9:90/live/jcxc.m3u8
+#EXTINF:-1 group-title="测试｜地方",马尔康综合频道
+http://live.zmmek.com:90/live/zhxw.m3u8
+#EXTINF:-1 group-title="测试｜地方",利州综合频道
+http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",利州综合频道
+http://tv.drs.lzgbdst.com:8100/channellive/lztv2.flv
+#EXTINF:-1 group-title="测试｜地方",青神综合频道
+http://lmt.scqstv.com/live1/live1.m3u8
+#EXTINF:-1 group-title="测试｜地方",乐至综合频道
+http://175.155.106.72:89/live1/live1.m3u8
+#EXTINF:-1 group-title="测试｜地方",会东综合频道
+http://112.45.133.129:90/live/xwzh.m3u8
+#EXTINF:-1 group-title="测试｜地方",会东综合频道
+http://live.schdxww.com:90/live/xwzh.m3u8
+#EXTINF:-1 group-title="测试｜地方",雷波综合频道
+http://lbzb.yd-data.com/live/0000.flv?auth_key=601589378470-0-0-67d1de5fa3aa9412566d7c9f807c91a0
+#EXTINF:-1 group-title="测试｜地方",康定新闻综合
+http://m3u8-kd.channel.ganzitv.com/nmip-media-yajiang/channellive/channel100663/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",纳溪新闻频道
+https://bl.ainaxi.cn/live/d1b85c45e7b74e96bdd950e047c7fd94.m3u8
+#EXTINF:-1 group-title="测试｜地方",叙永综合频道
+http://luzhi.xuyongrongmei.com:1935/live/_definst_/xyxw/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",武胜综合频道
+http://live2.gatv.com.cn:86/live/WS.m3u8
+#EXTINF:-1 group-title="测试｜地方",三台电视一套
+http://125.65.94.91:12351/live
+#EXTINF:-1 group-title="测试｜地方",三台电视二套
+http://125.65.94.91:12353/live
+#EXTINF:-1 group-title="测试｜地方",滨海综艺
+http://traffic.jbh.tjbh.com/live/bhtv2/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",滨海影视
+http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",西青新闻综合
+http://221.238.209.44:81/hls/live1.m3u8
+#EXTINF:-1 group-title="测试｜地方",武清综合频道
+https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8
+#EXTINF:-1 group-title="卫视",河北卫视
+http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=f1b16a3a3866dafecb94ec2bb4160e58
+#EXTINF:-1 group-title="测试｜地方",河北经济生活
+http://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=2510710360&k=878ace626abc063571a3ddff9ec396a3
+#EXTINF:-1 group-title="测试｜地方",河北农民
+http://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=2510710360&k=75118c17760542fe4385e93cc4f03d38
+#EXTINF:-1 group-title="测试｜地方",河北都市
+http://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=2510710360&k=4380da13735a230c080ce8ff404033af
+#EXTINF:-1 group-title="测试｜地方",河北影视剧
+http://tv.pull.hebtv.com/zhibo/yingshijupindao.m3u8?t=2510710360&k=2d3ada9117a7f1c3f7c11b67671bbe3c
+#EXTINF:-1 group-title="测试｜地方",河北少儿科教
+http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3de40dd013255b38b2
+#EXTINF:-1 group-title="测试｜地方",河北公共
+http://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=2510710360&k=6c7672b94bb3940303bd8f5b81d4bdb6
+#EXTINF:-1 group-title="测试｜地方",石家庄娱乐
+http://pluslive1.sjzntv.cn/yule/playlist.m3u8?zhebd
+#EXTINF:-1 group-title="测试｜地方",石家庄生活
+http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8?zhebd
+#EXTINF:-1 group-title="测试｜地方",石家庄都市
+http://pluslive1.sjzntv.cn/dushi/playlist.m3u8?zhebd
+#EXTINF:-1 group-title="测试｜地方",邯郸公共频道
+https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8?zhebd
+#EXTINF:-1 group-title="测试｜地方",邯郸公共频道
+https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
+#EXTINF:-1 group-title="测试｜地方",邯郸科技教育
+https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8?zhebd
+#EXTINF:-1 group-title="测试｜地方",邯郸科技教育
+https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8?zhebd
+#EXTINF:-1 group-title="测试｜地方",鹿泉一套
+https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8?zhebd
+#EXTINF:-1 group-title="测试｜地方",鹿泉一套
+https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8?zhebd
+#EXTINF:-1 group-title="测试｜地方",昌黎综合频道
+https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
+#EXTINF:-1 group-title="测试｜地方",昌黎综合频道
+https://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.m3u8?zhebd
+#EXTINF:-1 group-title="测试｜地方",石家庄新闻
+http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",石家庄娱乐
+http://pluslive1.sjzntv.cn/yule/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",石家庄生活
+http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",石家庄都市
+http://pluslive1.sjzntv.cn/dushi/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",保定公共
+http://jwcdnqx.hebyun.com.cn/live/bdxw1/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="测试｜地方",保定生活
+http://jwcdnqx.hebyun.com.cn/live/bddst/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="测试｜地方",承德公共生活
+https://jwliveqxzb.hebyun.com.cn/cdsggshtv/cdsggshtv.m3u8
+#EXTINF:-1 group-title="测试｜地方",大厂一套
+http://60.10.185.184:1935/live/dc1.stream/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",定州生活频道
+https://jwliveqxzb.hebyun.com.cn/shpd/shpd.m3u8
+#EXTINF:-1 group-title="测试｜地方",邯郸科教
+https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8
+#EXTINF:-1 group-title="测试｜地方",衡山
+http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8
+#EXTINF:-1 group-title="测试｜地方",衡水新闻综合
+http://111.225.205.64:8081/964D4p2/800/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",鹿泉一套
+https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8
+#EXTINF:-1 group-title="测试｜地方",平泉影视频道
+https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
+#EXTINF:-1 group-title="测试｜地方",平泉综合频道
+https://jwliveqxzb.hebyun.com.cn/pqzh/pqzh.m3u8
+#EXTINF:-1 group-title="测试｜地方",清河经济综艺
+https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="测试｜地方",任丘文娱
+https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="测试｜地方",任丘综合
+https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="测试｜地方",望都综合频道
+https://jwliveqxzb.hebyun.com.cn/wddst/wddst.m3u8
+#EXTINF:-1 group-title="测试｜地方",兴隆综合频道
+https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="测试｜地方",河北农民
+https://jwplay.hebyun.com.cn/live/hbnmtv/1500k/tzwj_video.m3u8?zhebd
+#EXTINF:-1 group-title="测试｜地方",河北都市
+https://jwplay.hebyun.com.cn/live/hbdstv/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="测试｜地方",河北农民
+http://hbfc.chinashadt.com:2036/live/1003.stream/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",邯郸公共频道
+https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="测试｜地方",邯郸科技教育
+https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="测试｜地方",邢台综合频道
+http://a.xttv.top/xttv/5ebe09cb3d1a0f3f3d062e99c78175a0.flv?auth_key=1861891200-0-0-d86d236a74b9a55f2596a7346ec632a8
+#EXTINF:-1 group-title="测试｜地方",邢台公共频道
+http://a.xttv.top/xttv/d0586743dc68918f808f28b8bc90c737.flv?auth_key=1861891200-0-0-82cd69002c4060ddabc0bfa1b3446dc2
+#EXTINF:-1 group-title="测试｜地方",承德公共生活
+https://jwcdnqx.hebyun.com.cn/live/cdsggshtv/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="测试｜地方",鹿泉一套
+https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="测试｜地方",鹿泉二套
+https://jwliveqxzb.hebyun.com.cn/luquaner/luquaner.m3u8
+#EXTINF:-1 group-title="测试｜地方",鹿泉二套
+https://jwcdnqx.hebyun.com.cn/live/luquaner/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="测试｜地方",阜城综合频道
+http://hbfc.chinashadt.com:2036/live/2.stream/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",阜城经济频道
+http://hbfc.chinashadt.com:2036/live/5.stream/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",枣强综合
+http://hbzqdb.chinashadt.com:1937/live/zqzh.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",昌黎综合频道
+https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="测试｜地方",昌黎综合频道
+https://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.m3u8
+#EXTINF:-1 group-title="测试｜地方",迁安新闻综合
+https://jwplay.hebyun.com.cn/live/jiuyunqianan/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="测试｜地方",迁西综合频道
+https://jwliveqxzb.hebyun.com.cn/qxzhpd/qxzhpd.m3u8
+#EXTINF:-1 group-title="测试｜地方",迁西综合频道
+https://jwcdnqx.hebyun.com.cn/live/qxzhpd/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="测试｜地方",迁西农业频道
+https://jwliveqxzb.hebyun.com.cn/qxny/qxny.m3u8
+#EXTINF:-1 group-title="测试｜地方",迁西农业频道
+https://jwcdnqx.hebyun.com.cn/live/qxny/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="测试｜地方",霸州新闻频道
+http://hbbz.chinashadt.com:2036/live/stream:bzxw.stream/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",霸州文化频道
+http://hbbz.chinashadt.com:2036/live/stream:bzwh.stream/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",霸州公共频道
+http://hbbz.chinashadt.com:2036/live/stream:bzgg.stream/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",霸州少儿频道
+http://hbbz.chinashadt.com:2036/live/stream:bzse.stream/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",永清综合频道
+http://60.10.203.69:8000/0.m3u8
+#EXTINF:-1 group-title="测试｜地方",永清影视频道
+http://60.10.203.69:8000/4.m3u8
+#EXTINF:-1 group-title="测试｜地方",清河经济综艺
+https://jwliveqxzb.hebyun.com.cn/qinghe1/qinghe1.m3u8
+#EXTINF:-1 group-title="测试｜地方",沧县综合
+http://hebcx.chinashadt.com:2036/live/10001.stream/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",沧县二套
+http://hebcx.chinashadt.com:2036/live/10002.stream/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",定州生活频道
+https://jwcdnqx.hebyun.com.cn/live/shpd/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="测试｜地方",清苑生活频道
+https://jwcdnqx.hebyun.com.cn/live/qyshpd/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="测试｜地方",望都综合频道
+https://jwcdnqx.hebyun.com.cn/live/wddst/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="测试｜地方",平泉综合频道
+https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="测试｜地方",平泉影视频道
+https://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="测试｜地方",双滦影视频道
+https://jwcdnqx.hebyun.com.cn/live/slys/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="测试｜地方",黑龙江文体
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
+#EXTINF:-1 group-title="测试｜地方",黑龙江农业科教
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8
+#EXTINF:-1 group-title="测试｜地方",黑龙江都市
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/1.m3u8
+#EXTINF:-1 group-title="测试｜地方",黑龙江少儿
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8
+#EXTINF:-1 group-title="测试｜地方",黑龙江影视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/1.m3u8
+#EXTINF:-1 group-title="测试｜地方",黑龙新闻法治
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/1.m3u8
+#EXTINF:-1 group-title="测试｜地方",鹤岗新闻综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",佳木斯新闻综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",齐齐哈尔经济法制
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226555/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",齐齐哈尔新闻综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",双鸭山公共
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226532/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",双鸭山综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226529/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",大庆新闻综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226484/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",大庆公共
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226525/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",哈尔滨新闻综合
+https://stream.hrbtv.net/xwzh/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",哈尔滨生活
+https://stream.hrbtv.net/shpd/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",哈尔滨影视
+https://stream.hrbtv.net/yspd/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",哈尔滨娱乐
+https://stream.hrbtv.net/ylpd/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",哈尔滨都市资讯
+https://stream.hrbtv.net/zxpd/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",吉林都市
+http://stream1.jlntv.cn/dspd/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="测试｜地方",吉林公共新闻
+http://stream1.jlntv.cn/ggpd/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",吉林公共新闻
+http://stream1.jlntv.cn/ggpd/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="测试｜地方",吉林公共新闻
+http://stream1.jlntv.cn/dspd/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",吉林公共新闻
+http://stream1.jlntv.cn/dspd/sd/live.m3u8?_upt=4f4899d21531575987
+#EXTINF:-1 group-title="测试｜地方",吉林公共新闻
+http://stream1.jlntv.cn/ggpd/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",吉林频道
+http://stream1.jlntv.cn/fzpd/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="测试｜地方",吉林七台
+http://stream1.jlntv.cn/fzpd/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",吉林山村
+http://stream1.jlntv.cn/dspd/playlist.m3u8?_upt=a9a201ef1578416337
+#EXTINF:-1 group-title="测试｜地方",吉林生活
+http://stream1.jlntv.cn/shpd/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="测试｜地方",吉林乡村
+http://stream1.jlntv.cn/shpd/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",吉林乡村
+http://stream1.jlntv.cn/shpd/sd/live.m3u8?_upt=212b47d81531576020
+#EXTINF:-1 group-title="测试｜地方",吉林乡村
+http://stream1.jlntv.cn/xcpd/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",吉林乡村
+http://stream1.jlntv.cn/xcpd/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="测试｜地方",吉林新闻综合
+http://stream1.jlntv.cn/xcpd/sd/live.m3u8?_upt=ed8b01841531576074
+#EXTINF:-1 group-title="测试｜地方",吉林影院
+http://stream1.jlntv.cn/yspd/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="测试｜地方",白山公共
+http://stream8.jlntv.cn/baishan2/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",白山公共
+http://stream8.jlntv.cn/baishan2/playlist.m3u8?zjild
+#EXTINF:-1 group-title="测试｜地方",德惠综合
+http://stream11.jlntv.cn/dehuitv/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="测试｜地方",东北戏曲
+http://stream1.jlntv.cn/dbxq/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",东丰综合
+http://stream5.jlntv.cn/df/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",东丰综合
+http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="测试｜地方",东辽综合
+http://stream5.jlntv.cn/dl/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",桦甸综合
+http://stream10.jlntv.cn/huadian/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",桦甸综合
+http://stream10.jlntv.cn/huadian/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="测试｜地方",珲春新闻综合
+http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="测试｜地方",辉南新闻综合
+http://stream5.jlntv.cn/hn/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",辉南新闻综合
+http://stream5.jlntv.cn/hn/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="测试｜地方",江源综合
+http://stream10.jlntv.cn/jiangyuantv/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",靖宇综合
+http://stream8.jlntv.cn/jytv/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="测试｜地方",九台综合
+http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="测试｜地方",柳河综合
+http://stream5.jlntv.cn/lh/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="测试｜地方",龙井综合
+http://stream8.jlntv.cn/ljtv/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",龙井综合
+http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="测试｜地方",磐石综合
+http://stream5.jlntv.cn/ps/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="测试｜地方",舒兰新闻综合
+http://stream8.jlntv.cn/shulan/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="测试｜地方",双辽综合
+http://stream5.jlntv.cn/sl/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="测试｜地方",双阳综合
+http://stream11.jlntv.cn/shuangyang/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="测试｜地方",通化县综合
+http://stream5.jlntv.cn/thx/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",通化县综合
+http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="测试｜地方",汪清综合
+http://stream5.jlntv.cn/wq/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="测试｜地方",延边
+http://live.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8?zjild
+#EXTINF:-1 group-title="测试｜地方",延边
+http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild
+#EXTINF:-1 group-title="测试｜地方",延边
+http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8?zjild
+#EXTINF:-1 group-title="测试｜地方",延边朝鲜语综合
+http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8?zjild
+#EXTINF:-1 group-title="测试｜地方",延边朝鲜语综合
+http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8?zjild
+#EXTINF:-1 group-title="测试｜地方",延边汉语综合
+http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8?zjild
+#EXTINF:-1 group-title="测试｜地方",永吉综合频道
+http://stream10.jlntv.cn/yongji/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",长白山电视台
+http://stream8.jlntv.cn/cbstv/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",长白山电视台
+http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild
+#EXTINF:-1 group-title="测试｜地方",辽宁都市
+http://59.44.192.82:65000/hls/21/index.m3u8?key=tvbox6_com&playlive=1&authid=0
+#EXTINF:-1 group-title="测试｜地方",辽宁影视剧
+http://59.44.192.82:65000/hls/22/index.m3u8?key=tvbox6_com&playlive=1&authid=0
+#EXTINF:-1 group-title="测试｜地方",辽宁北方
+http://59.44.192.82:65000/hls/23/index.m3u8?key=tvbox6_com&playlive=1&authid=0
+#EXTINF:-1 group-title="测试｜地方",辽宁体育
+http://59.44.192.82:65000/hls/24/index.m3u8?key=tvbox6_com&playlive=1&authid=0
+#EXTINF:-1 group-title="测试｜地方",辽宁生活
+http://59.44.192.82:65000/hls/25/index.m3u8?key=tvbox6_com&playlive=1&authid=0
+#EXTINF:-1 group-title="测试｜地方",辽宁公共
+http://59.44.192.82:65000/hls/26/index.m3u8?key=tvbox6_com&playlive=1&authid=0
+#EXTINF:-1 group-title="测试｜地方",辽宁经济
+http://59.44.192.82:65000/hls/87/index.m3u8?key=tvbox6_com&playlive=1&authid=0
+#EXTINF:-1 group-title="测试｜地方",辽宁教育
+http://59.44.192.82:65000/hls/88/index.m3u8?key=tvbox6_com&playlive=1&authid=0
+#EXTINF:-1 group-title="测试｜地方",璧山综合
+http://222.179.42.129:8181/hls1.m3u8?zzhongqd
+#EXTINF:-1 group-title="测试｜地方",重庆精彩导视
+http://zbxclive.cbg.cn:1935/app_2/ls_105.stream/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",铜梁综合
+http://183.64.174.171:40123/ch1.m3u8
+#EXTINF:-1 group-title="测试｜地方",万州综合频道
+http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",万州综合频道
+http://123.146.162.24:8017/iTXwrGs/800/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",万州三峡移民
+http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",万州三峡移民
+http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8
+#EXTINF:-1 group-title="测试｜地方",万州三峡移民
+http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",万州最万州
+http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",万州最万州
+http://123.146.162.24:8013/tslslive/vWlnEzU/hls/live_sd.m3u8
+#EXTINF:-1 group-title="测试｜地方",万州最万州
+http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",璧山综合频道
+http://222.179.42.129:8181/hls1.m3u8
+#EXTINF:-1 group-title="测试｜地方",潼南综合频道
+http://183.230.184.51:65500/tntv1.m3u8
+#EXTINF:-1 group-title="测试｜地方",江津经济生活
+http://222.179.155.21:1935/ch0.m3u8
+#EXTINF:-1 group-title="测试｜地方",江津文化旅游
+http://222.179.155.21:1935/ch2.m3u8
+#EXTINF:-1 group-title="测试｜地方",武隆综合频道
+https://qxlmlive9.cbg.cn/applive/wltvzh/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",荣昌综合频道
+http://183.64.181.25:40023/rongchang01.m3u8
+#EXTINF:-1 group-title="测试｜地方",北碚综合频道
+http://222.178.181.121:12034/beibei01.m3u8
+#EXTINF:-1 group-title="测试｜地方",北碚综合频道
+http://222.178.181.121:12034/ts1
+#EXTINF:-1 group-title="测试｜地方",崆峒综合
+http://125.74.200.110:10080/hls/001/001_live.m3u8?gansu
+#EXTINF:-1 group-title="测试｜地方",甘南综合频道
+http://pili-live-hls.hfmt.net/gntv/gnhytv.m3u8
+#EXTINF:-1 group-title="测试｜地方",甘南藏语频道
+http://pili-live-hls.hfmt.net/gntv/gnzytv.m3u8
+#EXTINF:-1 group-title="测试｜地方",庆阳综合频道
+http://stream.gsqytv.com.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",庆阳公共频道
+http://stream.gsqytv.com.cn/ggpd/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",张掖新闻综合
+https://play.kankanlive.com/live/1629709727589955.m3u8
+#EXTINF:-1 group-title="测试｜地方",张掖公共频道
+https://play.kankanlive.com/live/1629710004378956.m3u8
+#EXTINF:-1 group-title="测试｜地方",定西综合频道
+https://play.kankanlive.com/live/1645679947087932.m3u8
+#EXTINF:-1 group-title="测试｜地方",定西公共频道
+https://play.kankanlive.com/live/1645680054929933.m3u8
+#EXTINF:-1 group-title="测试｜地方",平川综合频道
+https://play.kankanlive.com/live/1621842376245934.m3u8
+#EXTINF:-1 group-title="测试｜地方",临洮综合频道
+https://play.kankanlive.com/live/1638428318510977.m3u8
+#EXTINF:-1 group-title="测试｜地方",金川综合频道
+https://play.kankanlive.com/live/1625041962958919.m3u8
+#EXTINF:-1 group-title="测试｜地方",古浪综合频道
+https://play.kankanlive.com/live/1619400940821967.m3u8
+#EXTINF:-1 group-title="测试｜地方",陇西综合频道
+http://play.kankanlive.com/live/1641010321462941.m3u8
+#EXTINF:-1 group-title="测试｜地方",岷县综合频道
+http://play.kankanlive.com/live/1614311581479927.m3u8
+#EXTINF:-1 group-title="测试｜地方",通渭综合频道
+https://play.kankanlive.com/live/1629944062210970.m3u8
+#EXTINF:-1 group-title="测试｜地方",临潭综合频道
+http://pili-live-hls.hfmt.net/gntv/lttv.m3u8
+#EXTINF:-1 group-title="测试｜地方",夏河综合频道
+http://pili-live-hls.hfmt.net/gntv/xhtv.m3u8
+#EXTINF:-1 group-title="测试｜地方",卓尼综合频道
+http://pili-live-hls.hfmt.net/gntv/zntv.m3u8
+#EXTINF:-1 group-title="测试｜地方",舟曲新闻综合
+https://play.kankanlive.com/live/1631185650131909.m3u8
+#EXTINF:-1 group-title="测试｜地方",礼县综合频道
+https://play.kankanlive.com/live/1621416463200961.m3u8
+#EXTINF:-1 group-title="测试｜地方",西和综合频道
+https://play.kankanlive.com/live/1626051451895935.m3u8
+#EXTINF:-1 group-title="测试｜地方",临夏市电视台
+http://124.152.34.102:8030/wCMq71/wCMq71_0.m3u8
+#EXTINF:-1 group-title="测试｜地方",崆峒综合频道
+http://125.74.200.110:10080/hls/001/001_live.m3u8
+#EXTINF:-1 group-title="测试｜地方",秦安综合频道
+http://play.kankanlive.com/live/1620829433464975.m3u8
+#EXTINF:-1 group-title="测试｜地方",南宁文旅生活
+https://hls.nntv.cn/nnlive/WLSH_24.m3u8
+#EXTINF:-1 group-title="测试｜地方",南宁公共
+https://hls.nntv.cn/nnlive/GGPD_24.m3u8
+#EXTINF:-1 group-title="测试｜地方",图文频道
+http://citylive.njgdmm.com/beihai/d49b9838-dacf-4a22-ab46-1eed2b515d88.m3u8
+#EXTINF:-1 group-title="测试｜地方",来宾综合
+http://zb.lbnews.com.cn:1935/live/lbzh.stream/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",来宾新闻
+http://zb.lbnews.com.cn:1935/live/xwhc.stream/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",横州
+http://live.nnnews.net/video/s10004-hztv-hd/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",隆安
+https://hls.nntv.cn/nnlive/LATV_24.m3u8
+#EXTINF:-1 group-title="测试｜地方",罗成
+http://www.3jlc.cn/lctvlive/lcm.m3u8
+#EXTINF:-1 group-title="测试｜地方",贺州综合频道
+http://zhz.gxhzxw.com:2935/live/HZXW-/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",罗城综合
+http://111.12.75.177:9100/lctvlive/lch.m3u8
+#EXTINF:-1 group-title="测试｜地方",松桃新闻
+http://live.strmtzx.cn/stxw/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",松桃综艺
+http://live.strmtzx.cn/stzy/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",金海湖电视台
+http://pili-live-hls.jhh.ddcpc.cn/ddcpc-jhh/tv1050-1563865985.m3u8
+#EXTINF:-1 group-title="测试｜地方",正安综合
+http://pili-live-hls.221.i2863.com/i2863-221/live_221_315303.m3u8
+#EXTINF:-1 group-title="测试｜地方",乌兰察布经济生活
+http://pluslive.wrbtv.cn/wrbtv1/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",乌兰察布生活频道
+http://pluslive.wrbtv.cn/wrbtv3/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",达茂综合频道
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live162426298237692.m3u8
+#EXTINF:-1 group-title="测试｜地方",固阳综合频道
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live160861109294211.m3u8
+#EXTINF:-1 group-title="测试｜地方",克旗综合频道
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live159582155321721.m3u8
+#EXTINF:-1 group-title="测试｜地方",元宝山综合
+http://l2yx82zv.live2.danghongyun.com/live/hls/8be0890a1b0c4d7aaf80b51ea8646682/5a8988f5ecc64986a19aa9b6b3a052a6-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",突泉综合频道
+http://pili-live-hls.cyyapp2019.sobeylive.com/cyyapp2019/live163886991032759.m3u8
+#EXTINF:-1 group-title="测试｜地方",库伦旗电视台
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live161942247484390.m3u8
+#EXTINF:-1 group-title="测试｜地方",奈曼旗电视台
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live161888593025926.m3u8
+#EXTINF:-1 group-title="测试｜地方",准格尔旗电视台
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live161802828375549.m3u8
+#EXTINF:-1 group-title="测试｜地方",鄂托克旗电视台
+http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8
+#EXTINF:-1 group-title="测试｜地方",察右前旗综合
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live160073959279435.m3u8
+#EXTINF:-1 group-title="测试｜地方",鄂温克电视台
+http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live162700604855057.m3u8
+#EXTINF:-1 group-title="卫视",宁夏卫视
+https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
+#EXTINF:-1 group-title="测试｜地方",宁夏公共
+https://hls.ningxiahuangheyun.com/live/nxgg1M.m3u8
+#EXTINF:-1 group-title="测试｜地方",宁夏经济
+https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8
+#EXTINF:-1 group-title="测试｜地方",宁夏少儿
+https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
+#EXTINF:-1 group-title="测试｜地方",宁夏文旅
+https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8
+#EXTINF:-1 group-title="测试｜地方",吴忠公共
+http://live.kanwz.net/ggpd/sd/live.m3u8?zningxd
+#EXTINF:-1 group-title="测试｜地方",吴忠综合
+http://live.kanwz.net/zhpd/sd/live.m3u8?zningxd
+#EXTINF:-1 group-title="测试｜地方",青海经视
+http://stream.qhbtv.com/qhsh/sd/live.m3u8?_upt=ba357f031594546763
+#EXTINF:-1 group-title="测试｜地方",青海都市
+http://stream.qhbtv.com/qhds/sd/live.m3u8?_upt=f868bafe1594546577
+#EXTINF:-1 group-title="测试｜地方",西宁生活服务
+http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",西宁生活服务
+https://liveout.xntv.tv/a65jur/90p2i1.m3u8
+#EXTINF:-1 group-title="测试｜地方",囊谦综合
+http://pili-live-hls-qhnqapp2020.sobeylive.com/qhnqapp2020/qhnqtv01.m3u8
+#EXTINF:-1 group-title="测试｜地方",湟中综合
+http://livecdn.dmqhyadmin.com/hls/xjhuangzhong.m3u8
+#EXTINF:-1 group-title="测试｜地方",门源综合
+http://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8
+#EXTINF:-1 group-title="测试｜地方",祁连综合
+http://livecdn.dmqhyadmin.com/hls/xjqilian.m3u8
+#EXTINF:-1 group-title="测试｜地方",贵南综合
+http://livecdn.dmqhyadmin.com/hls/xjguinan.m3u8
+#EXTINF:-1 group-title="测试｜地方",化隆综合
+http://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8
+#EXTINF:-1 group-title="测试｜地方",民和综合
+http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8
+#EXTINF:-1 group-title="测试｜地方",门源综合
+http://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8?zqinghd
+#EXTINF:-1 group-title="测试｜地方",民和综合
+http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8?zqinghd
+#EXTINF:-1 group-title="测试｜地方",西宁生活服务
+https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
+#EXTINF:-1 group-title="测试｜地方",哈密一套
+http://stream.hmgbtv.com/hm1/hd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",哈密二套
+http://stream.hmgbtv.com/hm2/hd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",哈密三套
+http://stream.hmgbtv.com/hm3/hd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",伊犁汉语综合
+http://110.153.180.106:55555/out_1/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",伊犁维吾尔
+http://110.153.180.106:55555/out_2/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",伊犁哈萨克
+http://110.153.180.106:55555/out_3/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",伊犁经济法制
+http://110.153.180.106:55555/out_4/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",裕民汉语
+http://117.190.130.4:8081/out_1/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",裕民哈语
+http://117.190.130.4:8081/out_2/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",奎屯汉语综合
+http://218.84.12.186:8001/hls/main/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",奎屯哈萨克语
+http://218.84.12.186:8002/hls/main/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",九师电视台
+https://liveout.btzx.com.cn/3pyc0h/dbfvwu.m3u8
+#EXTINF:-1 group-title="测试｜地方",可克达拉综合
+http://test5.btzx.com.cn:80/live/kkdl.stream/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",石河子影视文体
+http://124.88.144.73:1935/live/jjsh/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",石河子影视文体
+http://202.107.188.141:5002/shiheziyinshiwenti_hdgq.m3u8?token=guoziyun兵团八师石河子教育
+#EXTINF:-1 group-title="测试｜地方",兵团八师石河子经济生活
+http://124.88.144.73:1935/live/dywt/playlist.m3u8?zxinjd
+#EXTINF:-1 group-title="测试｜地方",兵团十三师新星综合
+http://test5.btzx.com.cn/live/13TV.stream/playlist.m3u8?zxinjd
+#EXTINF:-1 group-title="测试｜地方",兵团十四师昆玉综合
+http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8?zxinjd
+#EXTINF:-1 group-title="测试｜地方",兵团四师可克达拉综合
+http://test5.btzx.com.cn/live/kkdl.stream/playlist.m3u8?zxinjd
+#EXTINF:-1 group-title="测试｜地方",奎屯汉语综合
+http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd
+#EXTINF:-1 group-title="测试｜地方",玛纳斯综合
+http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
+#EXTINF:-1 group-title="测试｜地方",伊犁哈萨克
+http://110.153.180.106:55555/out_3/index.m3u8?zxinjd
+#EXTINF:-1 group-title="测试｜地方",伊犁汉语综合
+http://110.153.180.106:55555/out_1/index.m3u8?zxinjd
+#EXTINF:-1 group-title="测试｜地方",伊犁经济法制
+http://110.153.180.106:55555/out_4/index.m3u8?zxinjd
+#EXTINF:-1 group-title="测试｜地方",伊犁维吾尔
+http://110.153.180.106:55555/out_2/index.m3u8?zxinjd
+#EXTINF:-1 group-title="测试｜地方",裕民哈语
+http://117.190.130.4:8081/out_2/index.m3u8?zxinjd
+#EXTINF:-1 group-title="测试｜地方",裕民汉语
+http://117.190.130.4:8081/out_1/index.m3u8?zxinjd
+#EXTINF:-1 group-title="测试｜地方",西藏藏语
+http://media.vtibet.com/masvod/HLSLive/7/zangyuTV_q1.m3u8
+#EXTINF:-1 group-title="测试｜地方",拉萨汉语综合
+http://file.lasatv.cn/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",拉萨藏语综合
+http://file.lasatv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",拉萨文旅频道
+http://file.lasatv.cn/cms/videos/nmip-media/channellive/channel3/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",浙江｜公共新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 group-title="测试｜地方",浙江｜国际频道
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 group-title="测试｜地方",浙江｜少儿频道
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 group-title="测试｜地方",浙江｜教科影视
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 group-title="测试｜地方",浙江｜数码时代
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 group-title="测试｜地方",浙江｜民生休闲
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 group-title="测试｜地方",浙江｜经济生活
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 group-title="测试｜地方",浙江｜钱江频道
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 group-title="测试｜地方",浙江｜钱江频道
+http://ali-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
+#EXTINF:-1 group-title="测试｜地方",浙江｜经济生活
+http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
+#EXTINF:-1 group-title="测试｜地方",浙江｜教科影视
+http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
+#EXTINF:-1 group-title="测试｜地方",浙江｜民生休闲
+http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
+#EXTINF:-1 group-title="测试｜地方",浙江｜公共新闻
+http://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+#EXTINF:-1 group-title="测试｜地方",山东齐鲁
+http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.m3u8
+#EXTINF:-1 group-title="测试｜地方",山东文旅
+http://livealone.iqilu.com/iqilu/yspdhjOF03kn.m3u8
+#EXTINF:-1 group-title="测试｜地方",山东综艺
+http://livealone.iqilu.com/iqilu/zypdhjOF03kn.m3u8
+#EXTINF:-1 group-title="测试｜地方",山东生活
+http://livealone.iqilu.com/iqilu/shpdhjOF03kn.m3u8
+#EXTINF:-1 group-title="测试｜地方",山东新闻
+http://livealone.iqilu.com/iqilu/ggpdhjOF03kn.m3u8
+#EXTINF:-1 group-title="测试｜地方",山东农科
+http://livealone.iqilu.com/iqilu/nkpdhjOF03kn.m3u8
+#EXTINF:-1 group-title="测试｜地方",山东体育
+http://livealone.iqilu.com/iqilu/typdhjOF03kn.m3u8
+#EXTINF:-1 group-title="测试｜地方",山东少儿
+http://livealone.iqilu.com/iqilu/sepdhjOF03kn.m3u8
+#EXTINF:-1 group-title="测试｜地方",山东教育
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",广州综合
+https://tv.cry33.com/gztv.php?id=gzzh
+#EXTINF:-1 group-title="测试｜地方",广州综合
+http://nas.jdshipin.com:8801/gztv.php?id=zhonghe
+#EXTINF:-1 group-title="测试｜地方",广州综合
+http://player.200877926.top/169l/gd/gztvm3u8.php?id=gzys
+#EXTINF:-1 group-title="测试｜地方",广州综合
+http://www.namewee.xyz/gudou.php?id=1432_4500
+#EXTINF:-1 group-title="测试｜地方",广州新闻
+http://nas.jdshipin.com:8801/gztv.php?id=xinwen
+#EXTINF:-1 group-title="测试｜地方",广州新闻
+http://player.200877926.top/169l/gd/gztvm3u8.php?id=gzxw
+#EXTINF:-1 group-title="测试｜地方",广州新闻
+http://www.namewee.xyz/gudou.php?id=1433_4500
+#EXTINF:-1 group-title="测试｜地方",广州法治
+https://tv.cry33.com/gztv.php?id=gzfz
+#EXTINF:-1 group-title="测试｜地方",广州法治
+http://nas.jdshipin.com:8801/gztv.php?id=fazhi
+#EXTINF:-1 group-title="测试｜地方",广州法治
+http://player.200877926.top/169l/gd/gztvm3u8.php?id=gzfz
+#EXTINF:-1 group-title="测试｜地方",南国都市
+https://tv.cry33.com/gztv.php?id=gzsh
+#EXTINF:-1 group-title="测试｜地方",广州影视
+https://tv.cry33.com/gztv.php?id=gzys
+#EXTINF:-1 group-title="测试｜地方",广州影视
+http://nas.jdshipin.com:8801/gztv.php?id=yingshi
+#EXTINF:-1 group-title="测试｜地方",广州影视
+http://r.jdshipin.com/TcKr2
+#EXTINF:-1 group-title="测试｜地方",广州竞赛
+https://tv.cry33.com/gztv.php?id=gzjs
+#EXTINF:-1 group-title="测试｜地方",广州竞赛
+http://nas.jdshipin.com:8801/gztv.php?id=jingsai
+#EXTINF:-1 group-title="测试｜地方",广州竞赛
+http://player.200877926.top/169l/gd/gztvm3u8.php?id=gzjs
+#EXTINF:-1 group-title="测试｜地方",汕头小公园
+https://gctxyc.liveplay.myqcloud.com/gc/bsszjs_1_md.m3u8
+#EXTINF:-1 group-title="测试｜地方",汕头小公园
+https://gctxyc.liveplay.myqcloud.com:443/gc/bsszjs_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="测试｜地方",汕头小公园
+https://gctxyc.liveplay.myqcloud.com:443/gc/bsszjs_1_md.m3u8
+#EXTINF:-1 group-title="测试｜地方",河南｜三门峡综合
+http://chj0827.cn:3838/udp/239.16.20.145:11450
+#EXTINF:-1 group-title="测试｜地方",河南｜义马综合
+http://chj0827.cn:3838/udp/239.16.20.109:11090
+#EXTINF:-1 group-title="测试｜地方",河南｜义马综合
+http://chj0827.cn:3838/udp/239.16.20.236:12360
+#EXTINF:-1 group-title="测试｜地方",河南｜渑池综合
+http://chj0827.cn:3838/udp/239.16.20.135:11350
+#EXTINF:-1 group-title="测试｜地方",河南｜渑池综合
+http://chj0827.cn:3838/udp/239.16.20.47:10470
+#EXTINF:-1 group-title="测试｜地方",河南｜卢氏综合
+http://chj0827.cn:3838/udp/239.16.20.240:12400
+#EXTINF:-1 group-title="测试｜地方",河南｜卢氏综合
+http://chj0827.cn:3838/rtp/239.16.20.240:12400
+#EXTINF:-1 group-title="测试｜地方",黑龙江｜少儿
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",黑龙江｜影视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",黑龙江｜文体
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",黑龙江｜新闻
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",黑龙江｜科教
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",黑龙江｜都市
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
+#EXTINF:-1 group-title="卫视",吉林｜延边卫视
+http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?zjild
+#EXTINF:-1 group-title="卫视",吉林｜延边卫视
+http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8?zjild
+#EXTINF:-1 group-title="测试｜地方",江苏｜苏州生活
+http://tylive.kan0512.com/norecord/norecord_csztv3.m3u8
+#EXTINF:-1 group-title="测试｜地方",山西｜运城公共
+http://live.0359tv.com/lsdream/t667aTY/1000/live.m3u8?zshanxd
+#EXTINF:-1 group-title="测试｜地方",山西｜运城科教
+http://live.0359tv.com/lsdream/p5eq48m/1000/live.m3u8?zshanxd
+#EXTINF:-1 group-title="测试｜地方",山西｜长子综合
+http://zzlive.zzc-media.com:8092/live/xwzh.m3u8?zshanxd
+#EXTINF:-1 group-title="测试｜地方",河源综合
+http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8?zguangd
+#EXTINF:-1 group-title="测试｜地方",河源综合
+https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8?_upt=f767206b1671099007
+#EXTINF:-1 group-title="测试｜地方",河源公共
+http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8?zguangd
+#EXTINF:-1 group-title="测试｜地方",安徽｜影视
+http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
+#EXTINF:-1 group-title="测试｜地方",安徽｜影视
+http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8?zanhd
+#EXTINF:-1 group-title="测试｜地方",安徽｜经济生活
+http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
+#EXTINF:-1 group-title="测试｜地方",安徽｜综艺体育
+http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
+#EXTINF:-1 group-title="测试｜地方",安徽｜综艺体育
+http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd
+#EXTINF:-1 group-title="测试｜地方",安徽｜导视
+https://livehls1.appcoo.com/liveshopping/949E0A98C9D0C311/6D925141BC1F8C28/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",安徽｜肥西综合
+http://112.30.194.221:20080/live/7210e3a27cc64ac4a3f7aba2e2b683d5/hls.m3u8
+#EXTINF:-1 group-title="测试｜地方",广东｜番禺电视台
+http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
+#EXTINF:-1 group-title="测试｜地方",广西｜罗城综合
+http://111.12.75.177:9100/lctvlive/lch.m3u8?zguangxd
+#EXTINF:-1 group-title="测试｜地方",广西｜贺州
+http://zhz.gxhzxw.com:2935/live/HZXW-/chunklist.m3u8
+#EXTINF:-1 group-title="测试｜地方",贵州｜七星关电视台
+https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",贵州｜凤冈综合
+http://live.fgxrmtzx.cn:90/live/zhpd.m3u8
+#EXTINF:-1 group-title="测试｜地方",河北｜武汉生活
+http://stream.appwuhan.com/3tzb/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",河北｜昌黎
+http://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.flv
+#EXTINF:-1 group-title="测试｜地方",河南｜梨园
+http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
+#EXTINF:-1 group-title="测试｜地方",河南｜临颍综合
+http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",河南｜光山综合
+http://tvpull.dxhmt.cn:9081/tv/11522-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",河南｜内黄综合频道
+http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8?zhend
+#EXTINF:-1 group-title="测试｜地方",河南｜卫辉综合频道
+http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8?zhend
+#EXTINF:-1 group-title="测试｜地方",河南｜叶县
+http://tvpull.dxhmt.cn:9081/tv/10422-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",河南｜叶县
+http://live.dxhmt.cn:9081/tv/10422-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",河南｜周口扶沟
+http://live.dxhmt.cn:9081/tv/11621-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",河南｜唐河一套
+http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",河南｜唐河一套
+http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8?zhend
+#EXTINF:-1 group-title="测试｜地方",河南｜固始综合
+http://tvpull.dxhmt.cn:9081/tv/11525-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",河南｜宜阳综合频道
+http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8?zhend
+#EXTINF:-1 group-title="测试｜地方",河南｜宝丰综合频道
+http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8?zhend
+#EXTINF:-1 group-title="测试｜地方",河南｜扶沟综合
+http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",河南｜扶沟综合
+http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8?zhend
+#EXTINF:-1 group-title="测试｜地方",河南｜新乡县电视台
+http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",河南｜新乡县电视台
+http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8?zhend
+#EXTINF:-1 group-title="测试｜地方",河南｜新县综合
+http://tvpull.dxhmt.cn:9081/tv/11523-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",河南｜新蔡综合
+http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",河南｜新野综合
+http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?zhend
+#EXTINF:-1 group-title="测试｜地方",河南｜方城一套
+http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8?zhend
+#EXTINF:-1 group-title="测试｜地方",河南｜济源电视一套
+http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8?zhend
+#EXTINF:-1 group-title="测试｜地方",河南｜淅川电视
+http://live.dxhmt.cn:9081/tv/11326-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",河南｜温县综合
+http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8?zhend
+#EXTINF:-1 group-title="测试｜地方",河南｜潢川综合
+http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",河南｜焦作公共
+http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",河南｜焦作公共
+http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8?zhend
+#EXTINF:-1 group-title="测试｜地方",河南｜登封综合
+http://tvpull.dxhmt.cn:9081/tv/10185-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",河南｜禹州综合
+http://live.dxhmt.cn:9081/tv/11081-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",河南｜禹州综合
+http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",河南｜禹州综合
+http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8?zhend
+#EXTINF:-1 group-title="测试｜地方",河南｜荥阳综合
+http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8?zhend
+#EXTINF:-1 group-title="测试｜地方",河南｜西华综合
+http://tvpull.dxhmt.cn:9081/tv/11622-1.m3u8?zhend
+#EXTINF:-1 group-title="测试｜地方",河南｜郏县综合
+http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8?zhend
+#EXTINF:-1 group-title="测试｜地方",河南｜鄢陵综合
+http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",湖北｜崇阳综合
+http://61.184.176.248:10500/live/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",黑龙江｜哈尔滨影视
+http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
+#EXTINF:-1 group-title="测试｜地方",黑龙江｜哈尔滨生活
+http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
+#EXTINF:-1 group-title="测试｜地方",黑龙江｜哈尔滨娱乐
+http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild
+#EXTINF:-1 group-title="测试｜地方",黑龙江｜七台河民生社教
+http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8
+#EXTINF:-1 group-title="测试｜地方",江苏｜南京十八
+http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",江苏｜南京娱乐
+http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",江苏｜无锡娱乐
+http://stream.thmz.com/wxtv2/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",江苏｜无锡生活
+http://stream.thmz.com/wxtv4/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",江苏｜无锡经济
+http://stream.thmz.com/wxtv5/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",江苏｜无锡都市资讯
+http://stream.thmz.com/wxtv3/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",江苏｜靖江电视
+http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",内蒙古｜鄂托克旗
+http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8?
+#EXTINF:-1 group-title="测试｜地方",内蒙古｜鄂托克旗
+http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8?zneimd
+#EXTINF:-1 group-title="测试｜地方",内蒙古｜可克达拉综合
+http://test5.btzx.com.cn/live/kkdl.stream/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",宁夏｜经济
+https://hls.ningxiahuangheyun.com/live/nxjj1M.flv
+#EXTINF:-1 group-title="测试｜地方",宁夏｜少儿
+https://hls.ningxiahuangheyun.com/live/nxse1M.flv
+#EXTINF:-1 group-title="卫视",宁夏｜安多卫视
+http://stream.qhbtv.com/adws/playlist.m3u8?_upt=739abf201649062902
+#EXTINF:-1 group-title="卫视",宁夏｜安多卫视
+http://stream.qhbtv.com/adws/sd/live.m3u8
+#EXTINF:-1 group-title="卫视",宁夏｜安多卫视
+http://stream.qhbtv.com/adws/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",宁夏｜兴海综合
+http://lived.dmqhyadmin.com/xhzhpd/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",宁夏｜大通电视台
+http://dtrmlive.qhdtrm.cn/testpush/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",宁夏｜青海经视
+http://stream.qhbtv.com/qhsh/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",宁夏｜青海经视
+http://stream.qhbtv.com/qhsh/sd/live.m3u8?_upt=a7ec5e491648026933
+#EXTINF:-1 group-title="测试｜地方",宁夏｜青海经视
+http://stream.qhbtv.com/qhsh/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",宁夏｜青海都市
+http://stream.qhbtv.com/qhds/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",宁夏｜青海都市
+http://stream.qhbtv.com/qhds/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",山东｜青州综合
+http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8?shandd
+#EXTINF:-1 group-title="测试｜地方",山东｜青州文化旅游
+http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8?shandd
+#EXTINF:-1 group-title="测试｜地方",山东｜烟台公共
+http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8?shandd
+#EXTINF:-1 group-title="测试｜地方",山东｜烟台公共
+http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",山东｜烟台经济科技
+http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8?shandd
+#EXTINF:-1 group-title="测试｜地方",山东｜烟台经济科技
+http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",山东｜烟台影视
+http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",山东｜枣庄教育
+http://stream.zztvzd.com/2/sd/live.m3u8?shandd
+#EXTINF:-1 group-title="测试｜地方",山东｜枣庄公共
+http://stream.zztvzd.com/3/sd/live.m3u8?shandd
+#EXTINF:-1 group-title="测试｜地方",山东｜菏泽经济生活
+http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8?shandd
+#EXTINF:-1 group-title="测试｜地方",山东｜菏泽影视
+http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8?shandd
+#EXTINF:-1 group-title="测试｜地方",山东｜菏泽新闻综合
+http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="卫视",山西｜卫视
+http://80ec27bff7f9ae80b961481da488e302.livehwc3.cn/liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d04ce01474da4193c8863ea281ec4759
+#EXTINF:-1 group-title="卫视",山西｜卫视
+http://live.cooltv.top/tv/tide.php?id=sxiws2
+#EXTINF:-1 group-title="卫视",山西｜卫视
+http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
+#EXTINF:-1 group-title="测试｜地方",山西｜经济
+http://live.cooltv.top/tv/cutv.php?id=sxjj
+#EXTINF:-1 group-title="测试｜地方",山西｜经济
+http://live.cooltv.top/tv/tide.php?id=sxjj
+#EXTINF:-1 group-title="测试｜地方",山西｜社会与法治
+http://live.cooltv.top/tv/cutv.php?id=sxkj
+#EXTINF:-1 group-title="测试｜地方",山西｜社会与法治
+http://live.cooltv.top/tv/tide.php?id=sxshfz
+#EXTINF:-1 group-title="测试｜地方",山西｜文体生活
+http://live.cooltv.top/tv/tide.php?id=sxwtsh
+#EXTINF:-1 group-title="测试｜地方",山西｜文体生活
+http://live.cooltv.top/tv/cutv.php?id=sxgg
+#EXTINF:-1 group-title="测试｜地方",山西｜影视
+http://live.cooltv.top/tv/cutv.php?id=sxys
+#EXTINF:-1 group-title="测试｜地方",山西｜影视
+http://live.cooltv.top/tv/tide.php?id=sxys
+#EXTINF:-1 group-title="测试｜地方",山西｜黄河
+http://live.cooltv.top/tv/cutv.php?id=sxhh
+#EXTINF:-1 group-title="测试｜地方",四川｜科教
+http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
+#EXTINF:-1 group-title="测试｜地方",四川｜滨海新闻
+http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8?ztianjd
+#EXTINF:-1 group-title="测试｜地方",四川｜滨海影院
+http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8?ztianjd
+#EXTINF:-1 group-title="测试｜地方",四川｜滨海综艺
+http://traffic.jbh.tjbh.com/live/bhtv2/playlist.m3u8?ztianjd
+#EXTINF:-1 group-title="测试｜地方",四川｜乐至综合
+http://175.155.106.72:89/live1/live1.m3u8?zsicd
+#EXTINF:-1 group-title="测试｜地方",四川｜乐至综合
+http://rmlive.lzxrmtzx.com/live1/live1.m3u8
+#EXTINF:-1 group-title="测试｜地方",四川｜乐至综合
+http://rmlive.lzxrmtzx.com/live1/live1.m3u8?zsicd
+#EXTINF:-1 group-title="测试｜地方",四川｜利州
+http://tv.drs.lzgbdst.com:8100/channellive/lztv2.flv?zsicd
+#EXTINF:-1 group-title="测试｜地方",四川｜利州
+http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8?zsicd
+#EXTINF:-1 group-title="测试｜地方",四川｜康定
+http://m3u8-kd.channel.ganzitv.com/nmip-media-yajiang/channellive/channel100663/playlist.m3u8?zsicd
+#EXTINF:-1 group-title="测试｜地方",四川｜泸州科教
+http://file.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",四川｜甘孜综合
+http://tv.drs.ganzitv.com:8100/channellive/gztv.flv?zsicd
+#EXTINF:-1 group-title="测试｜地方",四川｜营山电视台
+http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd
+#EXTINF:-1 group-title="测试｜地方",四川｜长宁综合
+http://cnpull.sccnfb.com/live/123456.m3u8?zsicd
+#EXTINF:-1 group-title="测试｜地方",四川｜青神综合
+http://lmt.scqstv.com/live1/live1.m3u8?zsicd
+#EXTINF:-1 group-title="测试｜地方",四川｜马尔康综合
+http://live.zmmek.com:90/live/zhxw.m3u8?zsicd
+#EXTINF:-1 group-title="测试｜地方",上海｜崇明电视台
+https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8?zshangd
+#EXTINF:-1 group-title="测试｜地方",上海｜嘉定电视台
+https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8?zshangd
+#EXTINF:-1 group-title="测试｜地方",新疆｜兵团八师石河子教育
+http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8?zxinjd
+#EXTINF:-1 group-title="测试｜地方",新疆｜巴音郭楞州
+http://file.loulannews.cn/nmip-media/channellive/channel101476/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",新疆｜巴音郭楞州
+http://file.loulannews.cn/nmip-media/channellive/channel102433/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",新疆｜巴音郭楞州
+http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",新疆｜巴音郭楞州
+http://file.loulannews.cn/nmip-media/channellive/channel104199/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",新疆｜石河子教育
+http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",新疆｜石河子经济生活
+http://124.88.144.73:1935/live/dywt/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",云南｜都市
+http://tvlive.ynradio.com/live/yunnandushi/chunks.m3u8
+#EXTINF:-1 group-title="测试｜地方",云南｜都市
+http://tvlive.ynradio.com/live/yunnandushi/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",云南｜娱乐
+http://tvlive.ynradio.com/live/yunnanyule/chunks.m3u8
+#EXTINF:-1 group-title="测试｜地方",云南｜娱乐
+http://tvlive.ynradio.com/live/yunnanyule/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",云南｜少儿
+http://tvlive.ynradio.com/live/yunnanshaoer/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",云南｜康旅
+http://tvlive.ynradio.com/live/yunnangonggong/chunks.m3u8
+#EXTINF:-1 group-title="测试｜地方",云南｜康旅
+http://tvlive.ynradio.com/live/yunnangonggong/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",安徽经济生活
+http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8?zanhd
+#EXTINF:-1 group-title="测试｜地方",安徽宿州公共
+http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",安徽宿州科教
+http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",安康公共
+http://hls-sxak.sobeylive.com/xjhsyapp2019/ggpdhd.m3u8
+#EXTINF:-1 group-title="测试｜地方",安康教育
+http://hls-sxak.sobeylive.com/xjhsyapp2019/jypdhd.m3u8
+#EXTINF:-1 group-title="测试｜地方",安康综合
+http://hls-sxak.sobeylive.com/xjhsyapp2019/zhpdhd.m3u8
+#EXTINF:-1 group-title="测试｜地方",安庆1
+http://52223.hlsplay.aodianyun.com/tv_radio_52223/tv_channel_3214.m3u8?auth_key=4840160301-0-0-378c5d20acdfb32e54fe2f61b057ecff&extra_key=qj4e5_Ej_mtN2cbGJEcXXjgw_HVomOse5m7vYzTTZ4M3tRajimjfp6N0QpS7g3ceGHkR7LqT0Kxj8Tn2sRlk7RwZ0GaWLs_CkzOYAF6IHwgf6Lbta-F7B_2g6wO7mYGIamz4w7or8NkNjGhC4MExW4sdqzTUSoe9cXN-snl9s9OhN0PIDv0lxTbXYIJ7fU
+#EXTINF:-1 group-title="测试｜地方",安庆2
+http://52223.hlsplay.aodianyun.com/tv_radio_52223/tv_channel_3215.m3u8?auth_key=4840160247-0-0-09f173f08ee665e4b1b65aa69a5ee46d&extra_key=9Gv-6hfRrMAaAuD7AYFdmB969naxPovqhZHAkcCYJSb1EAOCXARnqb8CUtO3J79-DQBGs-_55m2odXUh9cAecLDbz52sbpGw9b0f7umLy91QXS1P_Ueiz0_24GvOOdDugwSYLDZBUq-Ia5AZgi3CDUtTcex5hgsjrgkpwyXJnQH37tIiCpZY3zrNbW0tiDDU
+#EXTINF:-1 group-title="测试｜地方",八大戏剧
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",巴马综合
+https://rtmp.gdlive.gdmain.com:443/live/028exb80.m3u8
+#EXTINF:-1 group-title="测试｜地方",宝丰综合频道
+http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",宝鸡公共
+https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221226344/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",北碚综合
+http://222.178.181.121:12034/beibei01.m3u8?zzhongqd
+#EXTINF:-1 group-title="测试｜地方",宾川一套
+http://live.bcrmtzx.com/tv01/sd/live.m3u8?zyund
+#EXTINF:-1 group-title="测试｜地方",宾阳综合
+https://rtmp.gdlive.gdmain.com:443/live/lgmzjyml.m3u8
+#EXTINF:-1 group-title="测试｜地方",兵团八师石河子影文体
+http://124.88.144.73:1935/live/jjsh/playlist.m3u8?zxinjd
+#EXTINF:-1 group-title="卫视",兵团卫视
+http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701_fhd.m3u8
+#EXTINF:-1 group-title="测试｜地方",苍溪综合频道
+http://livecx.cxxrmt.com:80/cxdst/zb03.m3u8?auth_key=1692864295-0-0-4edeb8a8702116ab36f44606c26719f4
+#EXTINF:-1 group-title="测试｜地方",池州生活
+http://wjsp.chiznews.com:8037/live/wjsh.m3u8
+#EXTINF:-1 group-title="测试｜地方",崇明电视台
+https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
+#EXTINF:-1 group-title="测试｜地方",滁州公共
+http://live.cztv.cc:85/live/ggpd.m3u8?zanhd
+#EXTINF:-1 group-title="测试｜地方",滁州公共频道
+http://live.cztv.cc:85/live/ggpd.m3u8
+#EXTINF:-1 group-title="测试｜地方",滁州科教
+http://live.cztv.cc:85/live/sjpd.m3u8?zanhd
+#EXTINF:-1 group-title="测试｜地方",滁州科教频道
+http://live.cztv.cc:85/live/sjpd.m3u8
+#EXTINF:-1 group-title="测试｜地方",大兴电视台
+http://v2.91kds.cn/b9/polyv.m3u8?id=bjdxtv1&auth=rinimabi
+#EXTINF:-1 group-title="测试｜地方",党员教育
+https://12371wbndali.v.myalicdn.com/12371wbnd/dangyuanwang_2hd.m3u8
+#EXTINF:-1 group-title="测试｜地方",德格综合频道
+http://dgfile.ganzitv.com:80/nmip-media/channellive/channel101955/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",德清文化生活
+http://live.yingxi.tv/channel2/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",德阳公共
+http://scdytv.cn:1935/live/m_ggpd_livevideo/playlist.m3u8?zsicd
+#EXTINF:-1 group-title="测试｜地方",点掌财经
+https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",定襄综合
+http://lbyzztfe.live.sxmty.com:80/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",定州影院
+https://jwliveqxzb.hebyun.com.cn/yspd/yspd.m3u8
+#EXTINF:-1 group-title="测试｜地方",东兰综合
+https://rtmp.gdlive.gdmain.com:443/live/09aony85.m3u8
+#EXTINF:-1 group-title="测试｜地方",洞头综合频道
+http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8
+#EXTINF:-1 group-title="测试｜地方",洞头综合频道
+http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8?zzhed
+#EXTINF:-1 group-title="测试｜地方",都安综合
+https://lives.myun.tv:443/live/09em42ol.m3u8
+#EXTINF:-1 group-title="测试｜地方",都兰综合
+https://livecdn.dmqhyadmin.com/hls/xjdulan.m3u8
+#EXTINF:-1 group-title="测试｜地方",峨眉山综合频道
+https://embl.emsyd.jrem.cn:443/aaa/003.m3u8?auth_key=1669861584-0-0-f96c19f553b976f1f9800423b10baa5b
+#EXTINF:-1 group-title="测试｜地方",方城一套
+http://live.dxhmt.cn:9081/tv/11322-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",方城一套
+http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",高平综合
+http://live.gprmt.cn/gpnews/hd/live.m3u8?zshanxd
+#EXTINF:-1 group-title="测试｜地方",高邮综合频道
+http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8?zjiangsd
+#EXTINF:-1 group-title="测试｜地方",固始综合频道
+http://live.dxhmt.cn:9081/tv/11525-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",光山综合频道
+http://live.dxhmt.cn:9081/tv/11522-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",广安公共
+http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8?zsicd
+#EXTINF:-1 group-title="测试｜地方",哈尔滨资讯
+http://stream.hrbtv.net/zxpd/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",杭州萧山综合
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan3/720p.m3u8
+#EXTINF:-1 group-title="测试｜地方",杭州余杭平安
+http://l.cztvcloud.com/channels/lantian/SXyuhang2/720p.m3u8
+#EXTINF:-1 group-title="测试｜地方",杭州余杭未来
+http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
+#EXTINF:-1 group-title="测试｜地方",杭州余杭综合
+http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
+#EXTINF:-1 group-title="测试｜地方",河北昌黎
+http://livebroadcast.ccwb.cn/live/w1619693259142907.flv
+#EXTINF:-1 group-title="测试｜地方",河南义马电视
+http://live.dxhmt.cn:9081/tv/11281-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",淮北1
+https://live.hbnews.net/video/xwzh/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",淮北2
+https://live.hbnews.net/video/ggpd/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",淮滨综合
+http://tvpull.dxhmt.cn:9081/tv/11527-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",潢川综合频道
+http://live.dxhmt.cn:9081/tv/11526-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",会东综合
+http://112.45.133.129:90/live/xwzh.m3u8?zsicd
+#EXTINF:-1 group-title="测试｜地方",会东综合
+http://live.schdxww.com:90/live/xwzh.m3u8?zsicd
+#EXTINF:-1 group-title="测试｜地方",获嘉综合频道
+http://live.dxhmt.cn:9081/tv/10724-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",霍州综合
+https://iwlbdjk7.live.sxmty.com:443/live/hls/768ce7880a2545daac8d20a1910a399b/72b4712ef0224990ab744552c190f28c.m3u8
+#EXTINF:-1 group-title="测试｜地方",济源电视一套
+http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",嘉定电视台
+https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
+#EXTINF:-1 group-title="测试｜地方",郏县综合频道
+http://live.dxhmt.cn:9081/tv/10425-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",郏县综合频道
+http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",绛县综合频道
+http://push.vyuan8.com:80/vyuanLCB/28739116575436511.m3u8?auth_key=1735660800-0-0-db14fd925750e46805492e9c9ec3d553
+#EXTINF:-1 group-title="测试｜地方",焦作教育
+http://zhpull.dxhmt.cn/jiaozuo/9c10435ad24c409baee219ec289e17d0/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",焦作教育频道
+http://zhpull.dxhmt.cn/jiaozuo/9c10435ad24c409baee219ec289e17d0/playlist.m3u8?zhend
+#EXTINF:-1 group-title="测试｜地方",焦作综合
+http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",焦作综合频道
+http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8?zhend
+#EXTINF:-1 group-title="测试｜地方",金川乡村
+http://live.jinchuanrmt.com:90/live/jcxc.m3u8?zsicd
+#EXTINF:-1 group-title="测试｜地方",金华东阳综合
+http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
+#EXTINF:-1 group-title="测试｜地方",金华兰溪综合
+http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
+#EXTINF:-1 group-title="测试｜地方",金华武义综合
+http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
+#EXTINF:-1 group-title="测试｜地方",金堂电视台
+http://live.jtxwzx.com.cn:80/jtdst/hd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",晋城公共
+http://live.jinnews.com.cn/ggpd/sd/live.m3u8?zshanxd
+#EXTINF:-1 group-title="测试｜地方",晋中公共
+http://jzlive.jztvnews.com:90/live/jzgg.m3u8?zshanxd
+#EXTINF:-1 group-title="测试｜地方",荆州公共
+http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv02.m3u8?auth_key=1735660799-0-0-1963c999651ea135890d90bcc5ae172d
+#EXTINF:-1 group-title="测试｜地方",荆州陇上
+http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv03.m3u8?auth_key=1735660799-0-0-73625822ff2c77aefa1589e94281edad
+#EXTINF:-1 group-title="测试｜地方",荆州综合
+http://jingzhou-live21.cjyun.org:80/10085/s10085-jingzhou-tv01.m3u8?auth_key=1735660799-0-0-e0477d4b5bc584e7518a1bde13892cbe
+#EXTINF:-1 group-title="测试｜地方",睛彩焦作
+http://zhpull.dxhmt.cn/jiaozuo/c5eb91b47f0e42318f34fc0247c8acaa/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",睛彩焦作频道
+http://zhpull.dxhmt.cn/jiaozuo/c5eb91b47f0e42318f34fc0247c8acaa/playlist.m3u8?zhend
+#EXTINF:-1 group-title="测试｜地方",句容党建频道
+http://jrlive.jrntv.com/live/_definst_/dangjians/playlist.m3u8?zjiangsd
+#EXTINF:-1 group-title="测试｜地方",句容生活频道
+http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8?zjiangsd
+#EXTINF:-1 group-title="测试｜地方",句容影院频道
+http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8?zjiangsd
+#EXTINF:-1 group-title="测试｜地方",浚县一套
+http://tvpull.dxhmt.cn:9081/tv/10621-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",卡拉玛维
+http://klmysjtzb.rcsxzx.com/hls/klmy2.m3u8
+#EXTINF:-1 group-title="测试｜地方",卡拉玛依汉语综合
+http://klmysjtzb.rcsxzx.com/hls/klmy1.m3u8
+#EXTINF:-1 group-title="测试｜地方",卡拉玛依影视
+http://klmysjtzb.rcsxzx.com/hls/klmy3.m3u8
+#EXTINF:-1 group-title="测试｜地方",奎屯哈萨克语
+http://218.84.12.186:8002/hls/main/playlist.m3u8?zxinjd
+#EXTINF:-1 group-title="测试｜地方",丽水缙云综合
+http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
+#EXTINF:-1 group-title="测试｜地方",丽水龙泉综合
+http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
+#EXTINF:-1 group-title="测试｜地方",丽水青田综合
+http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
+#EXTINF:-1 group-title="测试｜地方",丽水庆元综合
+http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
+#EXTINF:-1 group-title="测试｜地方",丽水松阳综合
+http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
+#EXTINF:-1 group-title="测试｜地方",丽水遂昌综合
+http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
+#EXTINF:-1 group-title="测试｜地方",丽水云和综合
+http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
+#EXTINF:-1 group-title="测试｜地方",涟水综合频道
+http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8?zjiangsd
+#EXTINF:-1 group-title="测试｜地方",凉山彝语频道
+http://m3u8.channel.i0834.cn/nmpi-media/channellive/channel115044/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",凉山语
+http://m3u8.channel.i0834.cn/nmpi-media/channellive/channel115044/playlist.m3u8?zsicd
+#EXTINF:-1 group-title="测试｜地方",林州综合
+http://live.dxhmt.cn:9081/tv/10581-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",临颍综合频道
+http://live.dxhmt.cn:9081/tv/11122-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",六师五家渠综合
+https://liveout.btzx.com.cn/62ds9e/d9vi5g.m3u8
+#EXTINF:-1 group-title="测试｜地方",龙游生活娱乐
+http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
+#EXTINF:-1 group-title="测试｜地方",卢氏综合频道
+http://tvpull.dxhmt.cn:9081/tv/11224-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",泸州公共
+http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel102221/playlist.m3u8?zsicd
+#EXTINF:-1 group-title="测试｜地方",泸州科教
+http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8?zsicd
+#EXTINF:-1 group-title="测试｜地方",鲁山综合频道
+http://live.dxhmt.cn:9081/tv/10423-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",罗城综合
+http://www.3jlc.cn:80/lctvlive/lcm.m3u8
+#EXTINF:-1 group-title="测试｜地方",罗山综合
+http://tvpull.dxhmt.cn:9081/tv/11521-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",罗山综合频道
+http://live.dxhmt.cn:9081/tv/11521-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",麻栗坡
+https://m3u8.channel.wsrtv.com.cn/nmip-media/channellive/channel107237/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",美丽云南
+https://www.ynbit.com:1937/cyds-mlyn/livestream/playlist.m3u8?zyund
+#EXTINF:-1 group-title="测试｜地方",孟州综合
+http://tvpull.dxhmt.cn:9081/tv/10883-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",南京十八
+http://live.nbs.cn/channels/njtv/sbpd/500k.m3u8?zjiangsd
+#EXTINF:-1 group-title="测试｜地方",南京信息
+http://live.nbs.cn/channels/njtv/xxpd/500k.m3u8?zjiangsd
+#EXTINF:-1 group-title="测试｜地方",南京娱乐
+http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8?zjiangsd
+#EXTINF:-1 group-title="测试｜地方",南乐综合频道
+http://live.dxhmt.cn:9081/tv/10923-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",南县综合
+http://hnstnx.chinashadt.com:2037/live/10001.stream_360p/chunklist_w194686256.m3u8
+#EXTINF:-1 group-title="测试｜地方",南县综合
+http://hnstnx.chinashadt.com:2037/live/10001.stream_360p/chunklist_w553254777.m3u8
+#EXTINF:-1 group-title="测试｜地方",内黄综合
+http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",内蒙古经济生活
+https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
+#EXTINF:-1 group-title="卫视",内蒙古蒙语卫视
+https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
+#EXTINF:-1 group-title="测试｜地方",内蒙古蒙语文化
+https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
+#EXTINF:-1 group-title="测试｜地方",内蒙古农牧频道
+https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
+#EXTINF:-1 group-title="测试｜地方",内蒙古少儿频道
+https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
+#EXTINF:-1 group-title="测试｜地方",内蒙古文体娱乐
+https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
+#EXTINF:-1 group-title="测试｜地方",内乡综合
+http://tvpull.dxhmt.cn:9081/tv/11325-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",宁波象山综合
+http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
+#EXTINF:-1 group-title="测试｜地方",宁波余姚生活
+http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
+#EXTINF:-1 group-title="测试｜地方",宁波余姚姚江
+http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
+#EXTINF:-1 group-title="测试｜地方",宁波余姚综合
+http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
+#EXTINF:-1 group-title="测试｜地方",彭山综合频道
+http://m3u8tv.psrm.net:80/nmip-media/channellive/channel100740/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",平湖民生休闲
+http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
+#EXTINF:-1 group-title="测试｜地方",平鲁综合频道
+https://stream.icelook.cn:443/790d0a0f38c07f31/6728300245723120644_1609747594.m3u8?auth_key=1893456000-0-0-0cc4be5653a88cdb748a4543643d0fdb
+#EXTINF:-1 group-title="测试｜地方",平桥频道
+https://push.xytv.cn/live/5194987733687255654/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",平舆综合
+http://live.dxhmt.cn:9081/tv/11723-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",淇县电视台
+http://tvpull.dxhmt.cn:9081/tv/10622-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",潜江乡村
+http://hbqjdb.chinashadt.com:2035/live/4.stream/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",潜江综合
+http://hbqjdb.chinashadt.com:2035/live/3.stream/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",钦州公共
+http://stream.gxqzxw.com/qztv02/gghd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",钦州综合
+http://stream.gxqzxw.com/qztv/zhhd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",青海都市
+http://stream.qhbtv.com/qhds/sd/live.m3u8?_upt=
+#EXTINF:-1 group-title="测试｜地方",青海经视
+http://stream.qhbtv.com/qhsh/sd/live.m3u8?_upt=
+#EXTINF:-1 group-title="卫视",青海卫视
+http://stream.qhbtv.com/qhws/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",青神综合频道
+http://lmt.scqstv.com:80/live1/live1.m3u8
+#EXTINF:-1 group-title="测试｜地方",丘北电视台
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel14/playlist.m3u8?zyund
+#EXTINF:-1 group-title="测试｜地方",衢州开化综合
+http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8
+#EXTINF:-1 group-title="测试｜地方",衢州龙游生活
+https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
+#EXTINF:-1 group-title="测试｜地方",衢州龙游综合
+https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
+#EXTINF:-1 group-title="测试｜地方",衢州衢江综合
+http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
+#EXTINF:-1 group-title="测试｜地方",仁寿
+https://play.scrstv.com:443/TV/xwzh.m3u8?auth_key=1701335002-0-0-3f433e2a59b5dcff4ed6e1328e60d981
+#EXTINF:-1 group-title="测试｜地方",荣昌综合
+http://183.64.181.25:40023/rongchang01.m3u8?zzhongqd
+#EXTINF:-1 group-title="测试｜地方",汝阳综合频道
+http://live.dxhmt.cn:9081/tv/10326-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",汝阳综合频道
+http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",汝州科教频道
+http://live.dxhmt.cn:9081/tv/10482-2.m3u8
+#EXTINF:-1 group-title="测试｜地方",沙湾综合频道
+http://tvfile.swrmt.com:80/nmip-media/channellive/channel100064/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",上蔡综合
+http://tvpull.dxhmt.cn:9081/tv/11722-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",上街电视台
+http://live.dxhmt.cn:9081/tv/10106-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",上街电视台
+http://tvpull.dxhmt.cn:9081/tv/10106-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",上虞新商都
+http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
+#EXTINF:-1 group-title="测试｜地方",绍兴公共
+http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",绍兴上虞影视
+http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+#EXTINF:-1 group-title="测试｜地方",绍兴上虞综合
+http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
+#EXTINF:-1 group-title="测试｜地方",绍兴嵊州综合
+http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+#EXTINF:-1 group-title="测试｜地方",绍兴文化影视
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",歙县综合频道
+http://112.30.194.221:20080/live/4b3024127d1c472986ccdcb454f81a9f/hls.m3u8
+#EXTINF:-1 group-title="测试｜地方",狮河频道
+https://push.xytv.cn/live/8293182197258559187/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",十堰经济
+https://p8.vzan.com/slowlive/701367497774448672/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",十堰经济
+https://p8.vzan.com/slowlive/701367497774448672/live.m3u8?zbid=351104&tpid=1550600621
+#EXTINF:-1 group-title="测试｜地方",石家庄娱乐
+http://pluslive1.sjzntv.cn/yule/2/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",石嘴山台
+https://1972762460.cloudvdn.com/a.m3u8?domain=pili-live-hls-jrszs.szsnews.com&player=3QgAAE_-GGPN1qYX&secondToken=secondToken%3Ad3Hr2WvLUboLu5N3J4fOPjSY3XQ&streamid=jrszs%3Ajrszs%2Fggpd&v3=1
+#EXTINF:-1 group-title="测试｜地方",石嘴山综合
+https://pili-live-hls-jrszs.szsnews.com:443/jrszs/zhpd.m3u8
+#EXTINF:-1 group-title="测试｜地方",双流综合
+http://171.221.250.130:18888/27e684978eb642eeb90ab815f6cc51bf/c41893de5e8645b3b43aef1640859b0d.m3u8?zsicd
+#EXTINF:-1 group-title="测试｜地方",顺义
+https://livebjsy.chinamcache.com/live/zb02.m3u8
+#EXTINF:-1 group-title="测试｜地方",泗阳资讯频道
+http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8?zjiangsd
+#EXTINF:-1 group-title="测试｜地方",泗阳综合频道
+http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8?zjiangsd
+#EXTINF:-1 group-title="测试｜地方",苏州4K
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?zjiangsd
+#EXTINF:-1 group-title="测试｜地方",宿豫综合频道
+https://suyu-tv-hls.cm.jstv.com/suyu-tv/syzhpd.m3u8?zjiangsd
+#EXTINF:-1 group-title="测试｜地方",宿州科教
+http://live.ahsz.tv/video/s10001-kxjy/index.m3u8?zanhd
+#EXTINF:-1 group-title="测试｜地方",睢宁三农频道
+http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsn.m3u8?zjiangsd
+#EXTINF:-1 group-title="测试｜地方",睢宁生活教育
+http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsh.m3u8?zjiangsd
+#EXTINF:-1 group-title="测试｜地方",睢宁综合频道
+http://suining-tv-hls.cm.jstv.com/suining-tv/suiningzh.m3u8?zjiangsd
+#EXTINF:-1 group-title="测试｜地方",遂平一套
+http://tvpull.dxhmt.cn:9081/tv/11728-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",太和
+https://play-hsbj-static-bgp.vzan.com/1110366022/109031811546416830/live.m3u8?zbid=1110366022&tpid=686842078&type=0
+#EXTINF:-1 group-title="测试｜地方",太康综合
+http://live.dxhmt.cn:9081/tv/11627-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",太康综合
+http://tvpull.dxhmt.cn:9081/tv/11627-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",唐河一套
+http://live.dxhmt.cn:9081/tv/11328-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",通许综合频道
+http://live.dxhmt.cn:9081/tv/10222-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",通许综合频道
+http://tvpull.dxhmt.cn:9081/tv/10222-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",同德综合
+https://lived.dmqhyadmin.com/tdtv/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",铜梁综合
+http://183.64.174.171:40123/ch1.m3u8?zzhongqd
+#EXTINF:-1 group-title="测试｜地方",潼南综合
+http://183.230.184.51:65500/tntv1.m3u8?zzhongqd
+#EXTINF:-1 group-title="测试｜地方",万荣综合频道
+http://60.222.246.220:19433/hls1.m3u8
+#EXTINF:-1 group-title="测试｜地方",万州科教
+http://123.146.162.24:8017/Cz7WPb8/800/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",万州科教
+http://wanzhoulive.cbg.cn:8017/Cz7WPb8/800/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",万州三峡移民
+http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8?zzhongqd
+#EXTINF:-1 group-title="测试｜地方",万州三峡移民
+http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8?zzhongqd
+#EXTINF:-1 group-title="测试｜地方",万州三峡移民
+http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8?zzhongqd
+#EXTINF:-1 group-title="测试｜地方",万州综合
+http://123.146.162.24:8013/tslslive/noEX9SG/hls/live_sd.m3u8
+#EXTINF:-1 group-title="测试｜地方",万州综合
+http://123.146.162.24:8013/tslslive/noEX9SG/hls/live_sd.m3u8?zzhongqd
+#EXTINF:-1 group-title="测试｜地方",万州综合
+http://123.146.162.24:8017/iTXwrGs/800/live.m3u8?zzhongqd
+#EXTINF:-1 group-title="测试｜地方",万州综合
+http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8?zzhongqd
+#EXTINF:-1 group-title="测试｜地方",卫辉综合频道
+http://live.dxhmt.cn:9081/tv/10781-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",卫辉综合频道
+http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",尉氏综合频道
+http://live.dxhmt.cn:9081/tv/10223-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",温县综合
+http://live.dxhmt.cn:9081/tv/10825-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",温州永嘉综合
+http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
+#EXTINF:-1 group-title="测试｜地方",文成综合
+http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
+#EXTINF:-1 group-title="测试｜地方",文山综合
+https://m3u8.channel.wsrtv.com.cn/nmip-media/channellive/channel103390/playlist.m3u8
+#EXTINF:-1 group-title="测试｜地方",闻喜综合
+https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd
+#EXTINF:-1 group-title="测试｜地方",闻喜综合频道
+https://www.wxhcgbds.com:8081/channelTv/WXTV_1.flv
+#EXTINF:-1 group-title="测试｜地方",乌鲁木齐维语综合
+http://hls-xjhsy.sobeylive.com/xjwlmqapp2019/wy.m3u8
+#EXTINF:-1 group-title="测试｜地方",乌鲁木齐综合
+http://hls-xjhsy.sobeylive.com/xjwlmqapp2019/xwzh.m3u8
+#EXTINF:-1 group-title="测试｜地方",无锡经济
+http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd
+#EXTINF:-1 group-title="测试｜地方",无锡生活
+http://stream.thmz.com/wxtv4/sd/live.m3u8?zjiangsd
+#EXTINF:-1 group-title="测试｜地方",无锡娱乐
+http://stream.thmz.com/wxtv2/sd/live.m3u8?zjiangsd
+#EXTINF:-1 group-title="测试｜地方",吴忠综合
+http://live.kanwz.net/zhpd/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",五师双河影视
+http://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8
+#EXTINF:-1 group-title="测试｜地方",五师双河综合
+http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8
+#EXTINF:-1 group-title="测试｜地方",五台综合
+https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8?zshanxd
+#EXTINF:-1 group-title="测试｜地方",五通桥综合频道
+https://play.wtqrm.com:443/qtwz/wtqzb.m3u8?auth_key=1663323505-0-0-01843919c015a267038d6e00fd1e1519
+#EXTINF:-1 group-title="测试｜地方",武汉3科技生活
+http://59.173.243.210:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="测试｜地方",武进生活频道
+https://live.wjyanghu.com/live/CH2.m3u8?zjiangsd
+#EXTINF:-1 group-title="测试｜地方",西华综合频道
+http://live.dxhmt.cn:9081/tv/11622-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",淅川综合
+http://tvpull.dxhmt.cn:9081/tv/11326-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",湘潭公共
+http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8?auth=654837809071524@615@2E9A5FD0B225B012E3178551CF3754A8&BVUUID=C236454D-5355-2F5F-FA96-1887C72E55CE
+#EXTINF:-1 group-title="测试｜地方",襄城综合频道
+http://live.dxhmt.cn:9081/tv/11025-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",萧山生活频道
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+#EXTINF:-1 group-title="测试｜地方",新蔡综合
+http://live.dxhmt.cn:9081/tv/11729-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",新蔡综合
+http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8?zhend
+#EXTINF:-1 group-title="测试｜地方",新县综合频道
+http://live.dxhmt.cn:9081/tv/11523-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",新乡
+http://live.dxhmt.cn:9081/tv/10721-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",新野综合
+http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",新郑综合频道
+http://live.dxhmt.cn:9081/tv/10184-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",新郑综合频道
+http://tvpull.dxhmt.cn:9081/tv/10184-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",信阳文旅
+https://push.xytv.cn/live/89071063957031153/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",邢台综合频道
+https://jwplay.hebyun.com.cn/live/xttv/1500k/tzwj_video.m3u8?zhebd
+#EXTINF:-1 group-title="测试｜地方",叙永综合
+http://luzhi.xuyongrongmei.com:1935/live/_definst_/xyxw/playlist.m3u8?zsicd
+#EXTINF:-1 group-title="测试｜地方",鄢陵综合频道
+http://live.dxhmt.cn:9081/tv/11024-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",延安公共
+http://live.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",延边-1
+http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",延边朝鲜语综合
+http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",延边朝鲜语综合
+http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",延边汉语综合
+http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",延边频道
+http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",延边综合
+http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",砚山电视台
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel16/playlist.m3u8?zyund
+#EXTINF:-1 group-title="测试｜地方",雁江电视
+https://zbsczy.zyrb.com.cn/zygc/q_live169940504887269.m3u8
+#EXTINF:-1 group-title="测试｜地方",扬州城市
+https://cm-wshls.homecdn.com/live/8bd.m3u8
+#EXTINF:-1 group-title="测试｜地方",宜春综合
+https://live.newsyc.com/ycyt/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",宜阳综合频道
+http://live.dxhmt.cn:9081/tv/10327-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",翼城综合
+http://live.aiyicheng.com.cn/channel1/sd/live.m3u8?zshanxd
+#EXTINF:-1 group-title="测试｜地方",余杭综合频道
+http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl
+#EXTINF:-1 group-title="测试｜地方",盂县综合频道
+https://stream.icelook.cn:443/7e0d542d2fa63dc5/6805067973364024324_1623030764.m3u8?auth_key=1893456000-0-0-ebaa15bb707464bcad281300c68ba081
+#EXTINF:-1 group-title="测试｜地方",原平综合
+http://xkmspyxn.live.sxmty.com/live/hls/65072fcc05414062bf02088d2a2a77b2/9da977614b044ef59d11779e997a12f8-1.m3u8?zshanxd
+#EXTINF:-1 group-title="测试｜地方",枣庄教育频道
+http://stream.zztvzd.com/2/sd/live.m3u8
+#EXTINF:-1 group-title="测试｜地方",漳浦综合
+http://220.161.87.62:8800/hls/0/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",长宁综合频道
+http://cnpull.sccnfb.com:80/live/123456.m3u8
+#EXTINF:-1 group-title="测试｜地方",长垣综合频道
+http://live.dxhmt.cn:9081/tv/10728-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",长垣综合频道
+http://tvpull.dxhmt.cn:9081/tv/10728-1.m3u8
+#EXTINF:-1 group-title="测试｜地方",昭化综合频道
+http://live.zhgbtv.cn:3100/hls/kwqtkbbi/index.m3u8
+#EXTINF:-1 group-title="测试｜地方",资阳综合频道
+https://zbsczy.zyrb.com.cn/zygc/q_live169940503167305.m3u8
+#EXTINF:-1 group-title="测试｜地方",自贡公共
+http://110.189.153.160:1002/ggpd.flv?zsicd
