@@ -2,10 +2,6 @@
 自用直播源
 
 
-链接1:https://ghfast.top/https://raw.githubusercontent.com/AnonymousOrz/IPTV/main/IPTV.txt
-
-链接2:https://ghfast.top/https://raw.githubusercontent.com/AnonymousOrz/IPTV/main/IPTV.m3u
-
-备用1:https://ghproxy.net/https://raw.githubusercontent.com/AnonymousOrz/IPTV/main/IPTV.txt
-
-备用2:https://ghproxy.net/https://raw.githubusercontent.com/AnonymousOrz/IPTV/main/IPTV.m3u
+//以上全部来自互联网,所有内容仅供测试使用,请勿用于违法用途,如有冒犯请联系删除!
+// [所有内容仅供学习使用,请勿用于违法用途]
+//本人无公众号.无盈利.无引流.免费分享使用,请勿轻信他人,谨防上当受骗!
