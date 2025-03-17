@@ -10,6 +10,7 @@ CCTV7,http://39.134.67.108/PLTV/88888888/224/3221225671/1.m3u8
 CCTV8,http://39.134.67.108/PLTV/88888888/224/3221225795/1.m3u8
 CCTV9,http://39.134.67.108/PLTV/88888888/224/3221225676/1.m3u8
 CCTV10,http://39.134.67.108/PLTV/88888888/224/3221225677/1.m3u8
+CCTV-10HD,http://push-rtmp-hs-spe-f5.douyincdn.com/live/tv10p1qaz2wsx3edc4rfv5tgb6yhn7ujm8ik.flv
 CCTV11,http://39.134.67.108/PLTV/88888888/224/3221225517/1.m3u8
 CCTV12,http://39.134.67.108/PLTV/88888888/224/3221225669/1.m3u8
 CCTV13,http://39.134.67.108/PLTV/88888888/224/3221225812/1.m3u8
@@ -96,6 +97,9 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 欧洲华文六套,http://vvlive.eztv.vip/ctvsnew/ctvsnew.m3u8?auth_key=1710810919-0-0-50aa348ab0ba1386377aafc10877062f
 欧洲华文七套,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 港台,#genre#
+香港衛視,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
+環球電視台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+
 緯來電影台,http://122.117.71.103:8554/http/61.222.53.250:8081/hls/69/811/ch35.m3u8
 龍華電影台,http://122.117.71.103:8555/http/61.222.53.250:8068/hls/10/80/cstv10.m3u8
 HBO频道台,http://122.117.71.103:8556/http/61.222.53.250:8081/hls/71/813/ch41.m3u8
