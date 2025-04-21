@@ -1,0 +1,108 @@
+央视频道,#genre# 
+CCTV-1 综合,http://ls.djian.top/tv.php?id=153735&t=20250412195418
+CCTV-2 财经,http://ls.djian.top/tv.php?id=417710&t=20250412195418
+CCTV-3 综艺,http://ls.djian.top/tv.php?id=398260&t=20250412195418
+CCTV-4 中文国际,http://ls.djian.top/tv.php?id=895710&t=20250412195418
+CCTV-5 体育,http://ls.djian.top/tv.php?id=283783&t=20250412195418
+CCTV-5+ 体育赛事,http://ls.djian.top/tv.php?id=845983&t=20250412195418
+CCTV-6 电影,http://ls.djian.top/tv.php?id=915350&t=20250412195418
+CCTV-7 国防军事,http://ls.djian.top/tv.php?id=172735&t=20250412195418
+CCTV-8 电视剧,http://ls.djian.top/tv.php?id=760505&t=20250412195418
+CCTV-9 纪录,http://ls.djian.top/tv.php?id=928057&t=20250412195418
+CCTV-10 科教,http://ls.djian.top/tv.php?id=716495&t=20250412195418
+CCTV-11 戏曲,http://ls.djian.top/tv.php?id=884715&t=20250412195418
+CCTV-12 社会与法,http://ls.djian.top/tv.php?id=313014&t=20250412195418
+CCTV-13 新闻,http://ls.djian.top/tv.php?id=698781&t=20250412195418
+CCTV-14 少儿,http://ls.djian.top/tv.php?id=782612&t=20250412195418
+CCTV-15 音乐,http://ls.djian.top/tv.php?id=419628&t=20250412195418
+CCTV-16 奥林匹克,http://ls.djian.top/tv.php?id=163691&t=20250412195418
+CCTV-17 农业农村,http://ls.djian.top/tv.php?id=461202&t=20250412195418
+卫视频道,#genre# 
+湖南卫视,http://ls.djian.top/tv.php?id=430883&t=20250412195418
+浙江卫视,http://ls.djian.top/tv.php?id=306656&t=20250412195418
+江苏卫视,http://ls.djian.top/tv.php?id=924162&t=20250412195418
+东方卫视,http://ls.djian.top/tv.php?id=762822&t=20250412195418
+北京卫视,http://ls.djian.top/tv.php?id=340519&t=20250412195418
+广东卫视,http://ls.djian.top/tv.php?id=870308&t=20250412195418
+深圳卫视,http://ls.djian.top/tv.php?id=635237&t=20250412195418
+东南卫视,http://ls.djian.top/tv.php?id=622372&t=20250412195418
+山东卫视,http://ls.djian.top/tv.php?id=582498&t=20250412195418
+安徽卫视,http://ls.djian.top/tv.php?id=358688&t=20250412195418
+天津卫视,http://ls.djian.top/tv.php?id=578149&t=20250412195418
+湖北卫视,http://ls.djian.top/tv.php?id=794141&t=20250412195418
+辽宁卫视,http://ls.djian.top/tv.php?id=930598&t=20250412195418
+江西卫视,http://ls.djian.top/tv.php?id=299856&t=20250412195418
+河北卫视,http://ls.djian.top/tv.php?id=393837&t=20250412195418
+黑龙江卫视,http://ls.djian.top/tv.php?id=868179&t=20250412195418
+重庆卫视,http://ls.djian.top/tv.php?id=879371&t=20250412195418
+贵州卫视,http://ls.djian.top/tv.php?id=887685&t=20250412195418
+吉林卫视,http://ls.djian.top/tv.php?id=833951&t=20250412195418
+四川卫视,http://ls.djian.top/tv.php?id=151868&t=20250412195418
+河南卫视,http://ls.djian.top/tv.php?id=255562&t=20250412195418
+广西卫视,http://ls.djian.top/tv.php?id=753818&t=20250412195418
+山西卫视,http://ls.djian.top/tv.php?id=216558&t=20250412195418
+云南卫视,http://ls.djian.top/tv.php?id=739200&t=20250412195418
+陕西卫视,http://ls.djian.top/tv.php?id=775240&t=20250412195418
+内蒙古卫视,http://ls.djian.top/tv.php?id=986276&t=20250412195418
+甘肃卫视,http://ls.djian.top/tv.php?id=643121&t=20250412195418
+宁夏卫视,http://ls.djian.top/tv.php?id=703833&t=20250412195418
+青海卫视,http://ls.djian.top/tv.php?id=445540&t=20250412195418
+新疆卫视,http://ls.djian.top/tv.php?id=990276&t=20250412195418
+西藏卫视,http://ls.djian.top/tv.php?id=133839&t=20250412195418
+三沙卫视,http://ls.djian.top/tv.php?id=730934&t=20250412195418
+兵团卫视,http://ls.djian.top/tv.php?id=280965&t=20250412195418
+厦门卫视,http://ls.djian.top/tv.php?id=930651&t=20250412195418
+重温经典,http://ls.djian.top/tv.php?id=404858&t=20250412195418
+萌宠TV,http://ls.djian.top/tv.php?id=218677&t=20250412195418
+淘BABY,http://ls.djian.top/tv.php?id=692340&t=20250412195418
+淘剧场,http://ls.djian.top/tv.php?id=793701&t=20250412195418
+淘电影,http://ls.djian.top/tv.php?id=226401&t=20250412195418
+淘娱乐,http://ls.djian.top/tv.php?id=132677&t=20250412195418
+北京体育休闲,http://ls.djian.top/tv.php?id=908804&t=20250412195418 
+北京新闻,http://ls.djian.top/tv.php?id=936810&t=20250412195418
+咪咕视频,#genre# 
+咪咕视频_8M1080_咪视通-1,http://ls.djian.top/tv.php?id=722175&t=20250412195418
+咪咕视频_8M1080_咪视通-2,http://ls.djian.top/tv.php?id=538852&t=20250412195418
+咪咕视频_8M1080_咪视通-3,http://ls.djian.top/tv.php?id=274923&t=20250412195418
+咪咕视频_8M1080_咪视通-4,http://ls.djian.top/tv.php?id=426814&t=20250412195418
+咪咕视频_8M1080_咪视通-5,http://ls.djian.top/tv.php?id=310211&t=20250412195418
+咪咕视频_8M1080_咪视通-6,http://ls.djian.top/tv.php?id=666629&t=20250412195418
+咪咕视频_8M1080_咪视通-7,http://ls.djian.top/tv.php?id=447258&t=20250412195418
+咪咕视频_8M1080_咪视通-8,http://ls.djian.top/tv.php?id=726714&t=20250412195418
+咪咕视频_8M1080_咪视通-9,http://ls.djian.top/tv.php?id=227699&t=20250412195418
+咪咕视频_8M1080_咪视通-10,http://ls.djian.top/tv.php?id=961030&t=20250412195418
+咪咕视频_8M1080_咪视通-11,http://ls.djian.top/tv.php?id=363399&t=20250412195418
+咪咕视频_8M1080_咪视通-12,http://ls.djian.top/tv.php?id=658065&t=20250412195418
+咪咕视频_8M1080_咪视通-13,http://ls.djian.top/tv.php?id=119586&t=20250412195418 
+咪咕视频_8M1080_咪视通-14,http://ls.djian.top/tv.php?id=429752&t=20250412195418
+咪咕视频_8M1080_咪视通-15,http://ls.djian.top/tv.php?id=840397&t=20250412195418
+咪咕视频_8M1080_咪视通-16,http://ls.djian.top/tv.php?id=163089&t=20250412195418
+咪咕视频_8M1080_咪视通-17,http://ls.djian.top/tv.php?id=188330&t=20250412195418
+咪咕视频_8M1080_咪视通-18,http://ls.djian.top/tv.php?id=454661&t=20250412195418
+咪咕视频_8M1080_咪视通-19,http://ls.djian.top/tv.php?id=218903&t=20250412195418
+咪咕视频_8M1080_咪视通-20,http://ls.djian.top/tv.php?id=382711&t=20250412195418
+咪咕视频_8M1080_咪视通-21,http://ls.djian.top/tv.php?id=876981&t=20250412195418
+咪咕视频_8M1080_咪视通-22,http://ls.djian.top/tv.php?id=354348&t=20250412195418
+咪咕视频_8M1080_咪视通-23,http://ls.djian.top/tv.php?id=509246&t=20250412195418
+咪咕视频_8M1080_咪视通-24,http://ls.djian.top/tv.php?id=732407&t=20250412195418
+咪咕视频_8M1080_咪视通-25,http://ls.djian.top/tv.php?id=578877&t=20250412195418
+咪咕视频_8M1080_咪视通-26,http://ls.djian.top/tv.php?id=743702&t=20250412195418
+咪咕视频_8M1080_咪视通-27,http://ls.djian.top/tv.php?id=939813&t=20250412195418
+咪咕视频_8M1080_咪视通-28,http://ls.djian.top/tv.php?id=443644&t=20250412195418
+咪咕视频_8M1080_咪视通-29,http://ls.djian.top/tv.php?id=854163&t=20250412195418
+咪咕视频_8M1080_咪视通-30,http://ls.djian.top/tv.php?id=332518&t=20250412195418
+咪咕视频_8M1080_咪视通-31,http://ls.djian.top/tv.php?id=172598&t=20250412195418
+咪咕视频_8M1080_咪视通-32,http://ls.djian.top/tv.php?id=206296&t=20250412195418
+咪咕视频_8M1080_咪视通-33,http://ls.djian.top/tv.php?id=570967&t=20250412195418
+咪咕视频_8M1080_咪视通-34,http://ls.djian.top/tv.php?id=207438&t=20250412195418
+咪咕视频_8M1080_咪视通-35,http://ls.djian.top/tv.php?id=471367&t=20250412195418
+咪咕视频_8M1080_咪视通-36,http://ls.djian.top/tv.php?id=961208&t=20250412195418
+咪咕视频_8M1080_咪视通-37,http://ls.djian.top/tv.php?id=524688&t=20250412195418
+咪咕视频_8M1080_咪视通-38,http://ls.djian.top/tv.php?id=316985&t=20250412195418
+咪咕视频_8M1080_咪视通-39,http://ls.djian.top/tv.php?id=423355&t=20250412195418
+咪咕视频_8M1080_咪视通-40,http://ls.djian.top/tv.php?id=568969&t=20250412195418
+咪咕视频_8M1080_咪视通-41,http://ls.djian.top/tv.php?id=399695&t=20250412195418
+咪咕视频_8M1080_咪视通-42,http://ls.djian.top/tv.php?id=261804&t=20250412195418
+咪咕视频_8M1080_咪视通-43,http://ls.djian.top/tv.php?id=202815&t=20250412195418
+咪咕视频_8M1080_咪视通-44,http://ls.djian.top/tv.php?id=606675&t=20250412195418
+咪咕视频_8M1080_咪视通-45,http://ls.djian.top/tv.php?id=825266&t=20250412195418
