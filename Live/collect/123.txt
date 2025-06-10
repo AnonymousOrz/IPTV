@@ -1,3 +1,38 @@
+香港|翡翠台,https://smart.pendy.dpdns.org/Smart.php?id=jade_twn
+香港|翡翠台 backup,https://smart.pendy.dpdns.org/Smart.php?id=Jade_xue
+香港|iNews 新闻台,https://smart.pendy.dpdns.org/Smart.php?id=inews_twn
+香港|J 2,https://smart.pendy.dpdns.org/Smart.php?id=j2_twn
+香港|珍珠台,https://smart.pendy.dpdns.org/Smart.php?id=pearl_twn
+香港|凤凰香港,https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn
+香港|HOY资讯台,https://smart.pendy.dpdns.org/Smart.php?id=hoycaijing_twn
+香港|RHK 31,https://smart.pendy.dpdns.org/Smart.php?id=rhk31_twn
+香港|VIUTV1,https://smart.pendy.dpdns.org/Smart.php?id=viu1_twn
+香港|RHK 32,https://smart.pendy.dpdns.org/Smart.php?id=rhk32_twn
+香港|凤凰卫视,https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd
+香港|凤凰资讯,https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd
+香港|Viu6,https://smart.pendy.dpdns.org/Smart.php?id=viusix_twn
+中国|CCTV-1 综合 HD,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
+中国|CCTV-2 财经,https://smart.pendy.dpdns.org/Smart.php?id=cctv2
+中国|CCTV-3 综艺 HD,https://smart.pendy.dpdns.org/Smart.php?id=cctv3
+中国|CCTV-4 中文国际,https://smart.pendy.dpdns.org/Smart.php?id=cctv4
+中国|CCTV-5 体育频道,https://smart.pendy.dpdns.org/Smart.php?id=cctv5
+中国|CCTV-5+ 体育赛事 HD,https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus
+中国|CCTV-6,https://smart.pendy.dpdns.org/Smart.php?id=cctv6
+中国|CCTV-7 军事农业,https://smart.pendy.dpdns.org/Smart.php?id=cctv7
+中国|CCTV-8 电视剧 HD,https://smart.pendy.dpdns.org/Smart.php?id=cctv8hd
+中国|CCTV-9 记录 HD,https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd
+中国|CCTV-10 科教 HD,https://smart.pendy.dpdns.org/Smart.php?id=cctv10hd
+中国|CCTV-11 戏曲,https://smart.pendy.dpdns.org/Smart.php?id=cctv11
+中国|CCTV-12 社会与法,https://smart.pendy.dpdns.org/Smart.php?id=cctv12
+中国|CCTV-13 新闻频道,https://smart.pendy.dpdns.org/Smart.php?id=cctv13
+中国|CCTV-14 少儿,https://smart.pendy.dpdns.org/Smart.php?id=cctv14
+中国|CCTV-15 音乐,https://smart.pendy.dpdns.org/Smart.php?id=cctv15
+中国|湖南卫视,https://smart.pendy.dpdns.org/Smart.php?id=hunan_twn
+中国|浙江卫视,https://smart.pendy.dpdns.org/Smart.php?id=zhejiang_twn
+中国|江苏卫视,https://smart.pendy.dpdns.org/Smart.php?id=jiangsu_twn
+中国|广东卫视,https://smart.pendy.dpdns.org/Smart.php?id=guangdong_twn
+
+
 央视频道,#genre#
 CCTV-1,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV-1,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
