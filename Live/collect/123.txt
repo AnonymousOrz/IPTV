@@ -106,6 +106,17 @@ D-box,http://61.221.215.25:8800/hls/54/index.m3u8
 冰姐💓数字📶频道,#genre#
 CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 广东韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
+汕头综合,https://stream1.freetv.fun/ecd70bd486bb000d70807b25597ebaad4185287408555fbd0be6a1dc553ae2e7.ctv
+汕头综合,https://stream1.freetv.fun/a794cf282e739e983950cb4b21c14efbc997af480977b2cdb5d8daeb68f49650.ctv
+汕头经济,https://stream1.freetv.fun/b713a6979e00280533f5a7e6836f5fe5b8b87f5e4d30e5228c98b3441c0296b4.ctv
+汕头经济,https://stream1.freetv.fun/553fbb1de6c2406ebcaab7364352ef1f39ddc7b49e67f373ac5d0c2a4ffcc6ba.ctv
+lus即时,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
+香港 C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+
 龙游生活,https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 龙游综合,https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 衢江综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
