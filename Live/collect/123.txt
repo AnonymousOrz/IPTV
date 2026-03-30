@@ -64,6 +64,30 @@ FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 HISTORY,http://37.27.111.214:8080/live/27/hls.m3u8
 民视,http://37.27.111.214:8080/live/6/hls.m3u8
 中视,http://37.27.111.214:8080/live/7/hls.m3u8
+翡翠台,http://222.128.55.152:9080/live/gdfc.m3u8
+大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
+广东民生,http://222.128.55.152:9080/live/gdms.m3u8
+广东体育,http://222.128.55.152:9080/live/gdty.m3u8
+广东影视,http://222.128.55.152:9080/live/gdys.m3u8
+广东珠江,http://222.128.55.152:9080/live/gdzj.m3u8
+番禺宗合,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
+八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
+三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
+AMC 电影,http://61.221.215.25:8800/hls/43/index.m3u8
+纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
+探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
+动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
+NHK WORLD,http://61.221.215.25:8800/hls/51/index.m3u8
+音乐欣赏1,http://61.221.215.25:8800/hls/49/index.m3u8
+中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
+探索,http://61.221.215.25:8800/hls/1/index.m3u8
+TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
+音乐欣赏2,http://61.221.215.25:8800/hls/58/index.m3u8
+
+
 港澳,#genre#
 新视觉HD,http://120.76.248.139/live/bfgd/4200000249.m3u8
 华文三套,https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
